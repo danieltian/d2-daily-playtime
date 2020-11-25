@@ -1,0 +1,50 @@
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load("current", {packages:["calendar"]});
+    google.charts.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+      fetch('data.json').then(res => res.json()).then(data => {
+        var dataTable = new google.visualization.DataTable();
+        dataTable.addColumn({type: 'date', id: 'Date'});
+        dataTable.addColumn({type: 'number', id: 'Won/Loss'});
+
+        Object.entries(data).forEach(entry => {
+          const totalSeconds = (entry[1].allPvE || 0) + (entry[1].allPvP || 0) + (entry[1].allPvECompetitive || 0)
+          const totalHours = totalSeconds / 3600
+          const roundedHours = Math.round((totalHours + Number.EPSILON) * 100) / 100
+          dataTable.addRow([new Date(entry[0]), roundedHours])
+        })
+
+        var chart = new google.visualization.Calendar(document.getElementById('calendar_basic'));
+
+        var options = {
+          title: "Hours Played Per Day",
+          height: 550,
+          noDataPattern: {
+            backgroundColor: 'transparent',
+            color: 'transparent'
+          },
+          colorAxis: {
+            colors: ['#28DF6E', '#E9E632', '#DF2828'],
+            maxValue: 12
+          },
+          calendar: {
+            cellColor: {
+              stroke: '#eaeaea'
+            }
+          }
+        };
+
+        chart.draw(dataTable, options);
+      })
+    }
+  </script>
+</head>
+<body>
+<div id="calendar_basic" style="width: 1000px; height: 350px;"></div>
+</body>
+</html>
