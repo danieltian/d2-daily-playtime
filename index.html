@@ -3,32 +3,38 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   <script type="text/javascript">
-    let total = 0
+    let hours = []
 
-    google.charts.load("current", {packages:["calendar"]});
+    google.charts.load("current", {packages:["calendar", "corechart"]});
     google.charts.setOnLoadCallback(drawChart);
 
     function drawChart() {
       fetch('data.json').then(res => res.json()).then(data => {
         var dataTable = new google.visualization.DataTable();
         dataTable.addColumn({type: 'date', id: 'Date'});
-        dataTable.addColumn({type: 'number', id: 'Won/Loss'});
+        dataTable.addColumn({type: 'number', id: 'Hours'});
+
+        const rows = [['Date', 'Hours']]
 
         Object.entries(data).forEach(entry => {
           const totalSeconds = (entry[1].allPvE || 0) + (entry[1].allPvP || 0) + (entry[1].allPvECompetitive || 0)
           const totalHours = totalSeconds / 3600
-          total = total + totalHours
+          hours.push(totalHours)
           const roundedHours = Math.round((totalHours + Number.EPSILON) * 100) / 100
           dataTable.addRow([new Date(entry[0]), roundedHours])
+          rows.push([entry[0].substring(0, 10), roundedHours])
         })
 
-        console.log('total hours', total)
+        console.log('total hours', hours.reduce((sum, curr) => sum + curr))
+        const sortedHours = hours.sort((a, b) => a - b)
+        const mid = Math.floor(sortedHours.length / 2)
+        console.log('median', sortedHours.length % 2 === 0 ? sortedHours[mid - 1] : sortedHours[mid])
 
+        // Calendar chart
         var chart = new google.visualization.Calendar(document.getElementById('calendar_basic'));
 
         var options = {
           title: "Hours Played Per Day",
-          height: 550,
           noDataPattern: {
             backgroundColor: 'transparent',
             color: 'transparent'
@@ -45,11 +51,24 @@
         };
 
         chart.draw(dataTable, options);
+
+        // Histogram
+        var histogramData = google.visualization.arrayToDataTable(rows)
+
+        var histogramOptions = {
+          title: 'Hours Played Daily',
+          histogram: { bucketSize: 0.25 },
+          legend: { position: 'none' },
+        }
+
+        var histogram = new google.visualization.Histogram(document.getElementById('histogram'))
+        histogram.draw(histogramData, histogramOptions)
       })
     }
   </script>
 </head>
 <body>
-<div id="calendar_basic" style="width: 1000px; height: 350px;"></div>
+<div id="calendar_basic" style="width: 1000px; height: 500px;"></div>
+<div id="histogram" style="width: 1000px; height: 400px;"></div>
 </body>
 </html>
