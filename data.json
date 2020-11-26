@@ -155,7 +155,8 @@
     "allPvP": 1187,
     "patrol": 22232,
     "allStrikes": 717,
-    "allPvE": 24221
+    "allPvE": 24237,
+    "story": 16
   },
   "2018-12-01T00:00:00Z": {
     "patrol": 4388,
@@ -271,11 +272,11 @@
   },
   "2019-01-04T00:00:00Z": {
     "allPvP": 711,
-    "patrol": 14141,
+    "patrol": 14497,
     "raid": 4137,
-    "story": 4444,
+    "story": 6212,
     "allStrikes": 3338,
-    "allPvE": 28350
+    "allPvE": 30474
   },
   "2019-01-06T00:00:00Z": {
     "allPvP": 6024,
@@ -346,11 +347,12 @@
     "allPvECompetitive": 8915
   },
   "2019-01-30T00:00:00Z": {
-    "allPvP": 8995,
-    "patrol": 2313,
+    "allPvP": 14963,
+    "patrol": 7871,
     "raid": 3220,
-    "allStrikes": 3197,
-    "allPvE": 10526
+    "allStrikes": 4110,
+    "allPvE": 19087,
+    "story": 1318
   },
   "2019-01-31T00:00:00Z": {
     "allPvP": 2539,
@@ -393,11 +395,12 @@
     "allPvE": 11730
   },
   "2019-01-15T00:00:00Z": {
-    "patrol": 13777,
+    "patrol": 18717,
     "raid": 617,
-    "story": 4989,
+    "story": 11020,
     "allStrikes": 4399,
-    "allPvE": 29396
+    "allPvE": 40367,
+    "allPvP": 1338
   },
   "2019-01-16T00:00:00Z": {
     "patrol": 1052,
@@ -420,29 +423,33 @@
     "allPvE": 2135
   },
   "2019-01-22T00:00:00Z": {
-    "patrol": 8155,
-    "story": 827,
-    "allPvE": 10155
+    "patrol": 8720,
+    "story": 6888,
+    "allPvE": 16781
   },
   "2019-01-23T00:00:00Z": {
-    "patrol": 3329,
-    "allPvE": 3776
+    "patrol": 6761,
+    "allPvE": 12428,
+    "story": 5220
   },
   "2019-01-24T00:00:00Z": {
-    "patrol": 5117,
-    "allStrikes": 485,
-    "allPvE": 7247
+    "patrol": 24381,
+    "allStrikes": 829,
+    "allPvE": 39265,
+    "story": 12008
   },
   "2019-01-27T00:00:00Z": {
     "patrol": 2892,
-    "raid": 27152,
+    "raid": 27904,
     "story": 7065,
     "allStrikes": 3769,
-    "allPvE": 40878
+    "allPvE": 41630
   },
   "2019-01-28T00:00:00Z": {
-    "patrol": 4051,
-    "allPvE": 4749
+    "patrol": 20694,
+    "allPvE": 29877,
+    "story": 5385,
+    "allStrikes": 402
   },
   "2019-01-29T00:00:00Z": {
     "patrol": 7577,
@@ -456,18 +463,18 @@
   },
   "2019-02-07T00:00:00Z": {
     "allPvP": 15059,
-    "patrol": 8547,
+    "patrol": 9711,
     "allStrikes": 4509,
-    "allPvE": 14498,
+    "allPvE": 16591,
     "allPvECompetitive": 1157
   },
   "2019-02-08T00:00:00Z": {
     "allPvP": 5183,
     "patrol": 2727,
-    "raid": 15342,
+    "raid": 23222,
     "story": 3452,
     "allStrikes": 2711,
-    "allPvE": 24232
+    "allPvE": 32112
   },
   "2019-02-10T00:00:00Z": {
     "allPvP": 17761,
@@ -480,9 +487,9 @@
   "2019-02-11T00:00:00Z": {
     "allPvP": 16060,
     "patrol": 1443,
-    "raid": 1399,
+    "raid": 3666,
     "story": 15372,
-    "allPvE": 18214
+    "allPvE": 20481
   },
   "2019-02-15T00:00:00Z": {
     "allPvP": 4596,
@@ -493,13 +500,15 @@
   },
   "2019-02-16T00:00:00Z": {
     "allPvP": 6631,
-    "patrol": 1684,
-    "allPvE": 1684
+    "patrol": 6266,
+    "allPvE": 7649,
+    "story": 792,
+    "allStrikes": 591
   },
   "2019-02-17T00:00:00Z": {
     "allPvP": 13643,
-    "patrol": 4406,
-    "allPvE": 4406
+    "patrol": 5702,
+    "allPvE": 5702
   },
   "2019-02-18T00:00:00Z": {
     "allPvP": 19095,
@@ -508,17 +517,17 @@
   },
   "2019-02-19T00:00:00Z": {
     "allPvP": 11371,
-    "patrol": 4177,
-    "story": 426,
+    "patrol": 4462,
+    "story": 1147,
     "allStrikes": 1322,
-    "allPvE": 6695,
+    "allPvE": 7701,
     "allPvECompetitive": 10803
   },
   "2019-02-20T00:00:00Z": {
     "allPvP": 4083,
-    "patrol": 5731,
+    "patrol": 5971,
     "allStrikes": 3785,
-    "allPvE": 10178
+    "allPvE": 10418
   },
   "2019-02-21T00:00:00Z": {
     "allPvP": 2834,
@@ -529,44 +538,49 @@
     "allPvECompetitive": 3231
   },
   "2019-02-01T00:00:00Z": {
-    "patrol": 1156,
+    "patrol": 6613,
     "raid": 13264,
-    "story": 3286,
-    "allPvE": 17706
+    "story": 5441,
+    "allPvE": 27321,
+    "allStrikes": 623
   },
   "2019-02-02T00:00:00Z": {
-    "patrol": 2015,
-    "allPvE": 3337
+    "patrol": 12336,
+    "allPvE": 16322,
+    "story": 1901
   },
   "2019-02-03T00:00:00Z": {
-    "patrol": 884,
-    "allPvE": 884
+    "patrol": 12724,
+    "allPvE": 19843,
+    "allPvP": 422,
+    "story": 4736,
+    "allStrikes": 425
   },
   "2019-02-04T00:00:00Z": {
-    "patrol": 691,
-    "raid": 1978,
-    "allPvE": 3208
+    "patrol": 1844,
+    "raid": 3487,
+    "allPvE": 6764
   },
   "2019-02-05T00:00:00Z": {
-    "patrol": 1597,
+    "patrol": 2126,
     "raid": 1284,
-    "story": 1029,
+    "story": 2418,
     "allStrikes": 8377,
-    "allPvE": 13765
+    "allPvE": 15683
   },
   "2019-02-06T00:00:00Z": {
-    "patrol": 15193,
+    "patrol": 18488,
     "raid": 491,
     "story": 731,
     "allStrikes": 1043,
-    "allPvE": 19564
+    "allPvE": 25366
   },
   "2019-02-09T00:00:00Z": {
     "patrol": 3964,
-    "raid": 8866,
+    "raid": 12121,
     "story": 3744,
     "allStrikes": 736,
-    "allPvE": 17310
+    "allPvE": 20565
   },
   "2019-02-12T00:00:00Z": {
     "patrol": 3121,
@@ -579,42 +593,44 @@
     "allPvE": 120
   },
   "2019-02-22T00:00:00Z": {
-    "patrol": 3724,
-    "allStrikes": 731,
-    "allPvE": 4455,
+    "patrol": 6832,
+    "allStrikes": 2037,
+    "allPvE": 11821,
     "allPvECompetitive": 8217
   },
   "2019-02-23T00:00:00Z": {
-    "patrol": 2106,
-    "allPvE": 4353
+    "patrol": 4530,
+    "allPvE": 11401,
+    "allPvP": 2360,
+    "allStrikes": 1289
   },
   "2019-02-24T00:00:00Z": {
-    "patrol": 4902,
-    "raid": 1518,
+    "patrol": 9130,
+    "raid": 2610,
     "story": 734,
-    "allPvE": 10390
+    "allPvE": 16456
   },
   "2019-02-25T00:00:00Z": {
-    "patrol": 9437,
-    "allStrikes": 2756,
-    "allPvE": 16916
+    "patrol": 11051,
+    "allStrikes": 3426,
+    "allPvE": 19718
   },
   "2019-02-26T00:00:00Z": {
-    "patrol": 9223,
-    "story": 515,
+    "patrol": 11854,
+    "story": 1914,
     "allStrikes": 2079,
-    "allPvE": 16555
+    "allPvE": 22140
   },
   "2019-02-27T00:00:00Z": {
     "patrol": 270,
     "allPvE": 270
   },
   "2019-03-06T00:00:00Z": {
-    "allPvP": 3275,
-    "patrol": 3557,
-    "story": 501,
+    "allPvP": 4005,
+    "patrol": 6233,
+    "story": 1638,
     "allStrikes": 2949,
-    "allPvE": 7372,
+    "allPvE": 11185,
     "allPvECompetitive": 3310
   },
   "2019-03-07T00:00:00Z": {
@@ -656,19 +672,19 @@
   },
   "2019-03-13T00:00:00Z": {
     "allPvP": 7417,
-    "patrol": 10994,
-    "story": 2593,
-    "allStrikes": 4491,
-    "allPvE": 20817,
+    "patrol": 11354,
+    "story": 3556,
+    "allStrikes": 5181,
+    "allPvE": 22830,
     "allPvECompetitive": 2285
   },
   "2019-03-15T00:00:00Z": {
     "allPvP": 2332,
-    "patrol": 5765,
-    "raid": 1217,
+    "patrol": 6207,
+    "raid": 1867,
     "story": 3672,
     "allStrikes": 5032,
-    "allPvE": 15686,
+    "allPvE": 16778,
     "allPvECompetitive": 4303
   },
   "2019-03-16T00:00:00Z": {
@@ -702,10 +718,10 @@
   },
   "2019-03-20T00:00:00Z": {
     "allPvP": 6126,
-    "patrol": 9298,
-    "story": 1462,
+    "patrol": 9590,
+    "story": 2847,
     "allStrikes": 3486,
-    "allPvE": 15890
+    "allPvE": 17567
   },
   "2019-03-21T00:00:00Z": {
     "allPvP": 6202,
@@ -741,9 +757,9 @@
   "2019-03-26T00:00:00Z": {
     "allPvP": 2708,
     "patrol": 4817,
-    "raid": 17934,
+    "raid": 18671,
     "allStrikes": 1775,
-    "allPvE": 24909
+    "allPvE": 25646
   },
   "2019-03-28T00:00:00Z": {
     "allPvP": 1927,
@@ -764,46 +780,46 @@
   "2019-03-31T00:00:00Z": {
     "allPvP": 7254,
     "patrol": 5887,
-    "raid": 2422,
+    "raid": 4461,
     "allStrikes": 8473,
-    "allPvE": 16782,
+    "allPvE": 18821,
     "allPvECompetitive": 727
   },
   "2019-03-01T00:00:00Z": {
-    "patrol": 16402,
+    "patrol": 16651,
     "story": 1020,
-    "allStrikes": 669,
-    "allPvE": 19513,
+    "allStrikes": 734,
+    "allPvE": 19827,
     "allPvECompetitive": 18296
   },
   "2019-03-02T00:00:00Z": {
-    "patrol": 8207,
-    "raid": 6907,
+    "patrol": 12016,
+    "raid": 9596,
     "story": 8904,
     "allStrikes": 2597,
-    "allPvE": 27650,
+    "allPvE": 35656,
     "allPvECompetitive": 2512
   },
   "2019-03-03T00:00:00Z": {
     "patrol": 12936,
     "story": 2742,
     "allPvE": 17424,
-    "allPvECompetitive": 14294
+    "allPvECompetitive": 19147
   },
   "2019-03-04T00:00:00Z": {
-    "patrol": 5397,
+    "patrol": 9964,
     "raid": 1676,
     "story": 3281,
-    "allStrikes": 2861,
-    "allPvE": 14129,
-    "allPvECompetitive": 9521
+    "allStrikes": 3451,
+    "allPvE": 21008,
+    "allPvECompetitive": 17017
   },
   "2019-03-05T00:00:00Z": {
-    "patrol": 7082,
+    "patrol": 11483,
     "raid": 710,
     "story": 2324,
-    "allStrikes": 4597,
-    "allPvE": 15177,
+    "allStrikes": 5353,
+    "allPvE": 24186,
     "allPvECompetitive": 4230
   },
   "2019-03-09T00:00:00Z": {
@@ -820,10 +836,10 @@
     "allPvE": 7924
   },
   "2019-03-22T00:00:00Z": {
-    "patrol": 4049,
+    "patrol": 4203,
     "raid": 13048,
     "story": 573,
-    "allPvE": 18818,
+    "allPvE": 18972,
     "allPvECompetitive": 2213
   },
   "2019-03-27T00:00:00Z": {
@@ -842,10 +858,10 @@
   },
   "2019-04-05T00:00:00Z": {
     "allPvP": 3516,
-    "patrol": 1442,
+    "patrol": 1510,
     "story": 3131,
     "allStrikes": 699,
-    "allPvE": 5272,
+    "allPvE": 5340,
     "allPvECompetitive": 3836
   },
   "2019-04-06T00:00:00Z": {
@@ -866,25 +882,27 @@
   "2019-04-10T00:00:00Z": {
     "allPvP": 2226,
     "patrol": 6107,
-    "raid": 9507,
+    "raid": 10065,
     "story": 307,
     "allStrikes": 5018,
-    "allPvE": 21254
+    "allPvE": 21812
   },
   "2019-04-11T00:00:00Z": {
-    "allPvP": 810,
-    "patrol": 2635,
-    "allStrikes": 1295,
-    "allPvE": 4328
+    "allPvP": 7411,
+    "patrol": 3435,
+    "allStrikes": 1860,
+    "allPvE": 7096,
+    "story": 1403
   },
   "2019-04-12T00:00:00Z": {
     "allPvP": 2510,
     "patrol": 1817,
     "allStrikes": 6893,
-    "allPvE": 8710
+    "allPvE": 15097,
+    "raid": 6387
   },
   "2019-04-13T00:00:00Z": {
-    "allPvP": 8896,
+    "allPvP": 9180,
     "patrol": 3215,
     "raid": 7982,
     "allStrikes": 7497,
@@ -893,10 +911,10 @@
   "2019-04-21T00:00:00Z": {
     "allPvP": 1834,
     "patrol": 6790,
-    "raid": 4350,
+    "raid": 9981,
     "story": 2461,
     "allStrikes": 3027,
-    "allPvE": 17251
+    "allPvE": 22882
   },
   "2019-04-01T00:00:00Z": {
     "patrol": 1235,
@@ -908,8 +926,8 @@
   "2019-04-02T00:00:00Z": {
     "patrol": 3711,
     "raid": 5068,
-    "story": 5325,
-    "allPvE": 14104
+    "story": 6056,
+    "allPvE": 14835
   },
   "2019-04-03T00:00:00Z": {
     "patrol": 4665,
@@ -932,13 +950,14 @@
   },
   "2019-04-09T00:00:00Z": {
     "patrol": 3285,
-    "raid": 5315,
+    "raid": 6425,
     "story": 2987,
-    "allPvE": 11587
+    "allPvE": 12697
   },
   "2019-04-14T00:00:00Z": {
-    "patrol": 3568,
-    "allPvE": 7884
+    "patrol": 8212,
+    "allPvE": 13104,
+    "allStrikes": 576
   },
   "2019-04-16T00:00:00Z": {
     "patrol": 2332,
@@ -953,23 +972,23 @@
   },
   "2019-04-18T00:00:00Z": {
     "patrol": 1290,
-    "story": 10172,
-    "allStrikes": 2319,
-    "allPvE": 14460
+    "story": 11966,
+    "allStrikes": 5086,
+    "allPvE": 19021
   },
   "2019-04-19T00:00:00Z": {
-    "patrol": 2587,
-    "raid": 7204,
-    "story": 1232,
-    "allStrikes": 9265,
-    "allPvE": 20707
+    "patrol": 5584,
+    "raid": 9410,
+    "story": 3713,
+    "allStrikes": 12205,
+    "allPvE": 33119
   },
   "2019-04-20T00:00:00Z": {
     "patrol": 9372,
-    "raid": 28668,
+    "raid": 30900,
     "story": 339,
     "allStrikes": 1620,
-    "allPvE": 40385
+    "allPvE": 42617
   },
   "2019-04-22T00:00:00Z": {
     "patrol": 13008,
@@ -979,11 +998,11 @@
     "allPvE": 21041
   },
   "2019-04-23T00:00:00Z": {
-    "patrol": 754,
+    "patrol": 1253,
     "raid": 6382,
-    "story": 5015,
+    "story": 6821,
     "allStrikes": 4386,
-    "allPvE": 16537
+    "allPvE": 18842
   },
   "2019-04-24T00:00:00Z": {
     "patrol": 10699,
@@ -992,21 +1011,23 @@
     "allPvE": 13376
   },
   "2019-04-26T00:00:00Z": {
-    "patrol": 11993,
+    "patrol": 12895,
     "story": 3031,
     "allStrikes": 8597,
-    "allPvE": 25666
+    "allPvE": 26928
   },
   "2019-04-27T00:00:00Z": {
-    "patrol": 2838,
+    "patrol": 6267,
     "raid": 16739,
     "allStrikes": 5030,
-    "allPvE": 24607
+    "allPvE": 32397,
+    "story": 3503
   },
   "2019-04-28T00:00:00Z": {
-    "patrol": 4335,
-    "allStrikes": 605,
-    "allPvE": 6006
+    "patrol": 11644,
+    "allStrikes": 1710,
+    "allPvE": 16538,
+    "story": 381
   },
   "2019-04-29T00:00:00Z": {
     "patrol": 2814,
@@ -1026,14 +1047,16 @@
   },
   "2019-04-15T00:00:00Z": {
     "allStrikes": 610,
-    "allPvE": 610
+    "allPvE": 3729,
+    "patrol": 3119,
+    "allPvECompetitive": 1170
   },
   "2019-05-17T00:00:00Z": {
     "allPvP": 1162,
-    "patrol": 2801,
+    "patrol": 3357,
     "raid": 9457,
     "story": 1225,
-    "allPvE": 13483
+    "allPvE": 14039
   },
   "2019-05-01T00:00:00Z": {
     "patrol": 3572,
@@ -1047,16 +1070,17 @@
     "allPvE": 217
   },
   "2019-05-03T00:00:00Z": {
-    "patrol": 2176,
+    "patrol": 3721,
     "raid": 8795,
-    "allPvE": 11273
+    "allPvE": 12818
   },
   "2019-05-04T00:00:00Z": {
     "patrol": 11786,
     "story": 1975,
     "allStrikes": 3694,
-    "allPvE": 17797,
-    "allPvECompetitive": 3793
+    "allPvE": 22349,
+    "allPvECompetitive": 3793,
+    "raid": 4552
   },
   "2019-05-05T00:00:00Z": {
     "patrol": 1606,
@@ -1080,11 +1104,11 @@
     "allPvE": 19080
   },
   "2019-05-10T00:00:00Z": {
-    "patrol": 6494,
+    "patrol": 7795,
     "raid": 8198,
     "story": 7495,
     "allStrikes": 714,
-    "allPvE": 23685
+    "allPvE": 24986
   },
   "2019-05-11T00:00:00Z": {
     "patrol": 9360,
@@ -1095,28 +1119,29 @@
   },
   "2019-05-12T00:00:00Z": {
     "patrol": 3649,
-    "raid": 76,
+    "raid": 1474,
     "story": 3633,
-    "allPvE": 7358,
+    "allPvE": 8756,
     "allPvECompetitive": 1370
   },
   "2019-05-14T00:00:00Z": {
-    "patrol": 6235,
+    "patrol": 8285,
     "story": 6877,
-    "allPvE": 13112
+    "allPvE": 15162
   },
   "2019-05-15T00:00:00Z": {
     "patrol": 5358,
     "story": 750,
     "allStrikes": 1246,
-    "allPvE": 7969
+    "allPvE": 9105,
+    "raid": 1136
   },
   "2019-05-16T00:00:00Z": {
     "patrol": 4146,
-    "raid": 3001,
+    "raid": 4253,
     "story": 6117,
     "allStrikes": 301,
-    "allPvE": 13565
+    "allPvE": 14817
   },
   "2019-05-18T00:00:00Z": {
     "patrol": 15938,
@@ -1175,7 +1200,8 @@
   },
   "2019-05-24T00:00:00Z": {
     "story": 3131,
-    "allPvE": 3131
+    "allPvE": 3375,
+    "patrol": 244
   },
   "2019-05-26T00:00:00Z": {
     "story": 2431,
@@ -1192,10 +1218,10 @@
   },
   "2019-06-08T00:00:00Z": {
     "allPvP": 101,
-    "patrol": 7949,
+    "patrol": 10595,
     "raid": 14909,
-    "allStrikes": 3970,
-    "allPvE": 27147
+    "allStrikes": 5305,
+    "allPvE": 31948
   },
   "2019-06-09T00:00:00Z": {
     "allPvP": 1717,
@@ -1236,17 +1262,17 @@
   },
   "2019-06-21T00:00:00Z": {
     "allPvP": 2815,
-    "patrol": 4409,
-    "allStrikes": 1376,
-    "allPvE": 6990,
+    "patrol": 8671,
+    "allStrikes": 2329,
+    "allPvE": 14880,
     "allPvECompetitive": 2314
   },
   "2019-06-22T00:00:00Z": {
     "allPvP": 1815,
-    "patrol": 8840,
-    "story": 29,
+    "patrol": 9682,
+    "story": 725,
     "allStrikes": 3765,
-    "allPvE": 16359
+    "allPvE": 19358
   },
   "2019-06-25T00:00:00Z": {
     "allPvP": 5319,
@@ -1257,10 +1283,10 @@
   },
   "2019-06-26T00:00:00Z": {
     "allPvP": 1873,
-    "patrol": 10769,
+    "patrol": 14399,
     "story": 3441,
-    "allStrikes": 4925,
-    "allPvE": 21825
+    "allStrikes": 6282,
+    "allPvE": 27188
   },
   "2019-06-28T00:00:00Z": {
     "allPvP": 8305,
@@ -1297,11 +1323,12 @@
     "allPvE": 16052
   },
   "2019-06-07T00:00:00Z": {
-    "patrol": 2714,
+    "patrol": 4663,
     "raid": 13722,
     "story": 6262,
-    "allStrikes": 1453,
-    "allPvE": 26184
+    "allStrikes": 3618,
+    "allPvE": 30938,
+    "allPvP": 2018
   },
   "2019-06-11T00:00:00Z": {
     "patrol": 10265,
@@ -1316,11 +1343,11 @@
     "allPvE": 12494
   },
   "2019-06-14T00:00:00Z": {
-    "patrol": 6827,
+    "patrol": 7452,
     "raid": 942,
     "story": 2398,
     "allStrikes": 3483,
-    "allPvE": 15310
+    "allPvE": 15935
   },
   "2019-06-16T00:00:00Z": {
     "patrol": 7429,
@@ -1352,15 +1379,15 @@
     "allPvE": 6251
   },
   "2019-06-27T00:00:00Z": {
-    "patrol": 3221,
-    "allStrikes": 774,
-    "allPvE": 4476
+    "patrol": 8033,
+    "allStrikes": 2647,
+    "allPvE": 13484
   },
   "2019-06-29T00:00:00Z": {
     "patrol": 11676,
     "story": 2750,
     "allStrikes": 2668,
-    "allPvE": 22138
+    "allPvE": 23075
   },
   "2019-06-30T00:00:00Z": {
     "patrol": 5789,
@@ -1368,23 +1395,27 @@
     "allPvE": 6622
   },
   "2019-06-20T00:00:00Z": {
-    "allPvE": 782
+    "allPvE": 14777,
+    "patrol": 8844,
+    "story": 4198,
+    "allStrikes": 953
   },
   "2019-07-06T00:00:00Z": {
     "allPvP": 2029,
-    "patrol": 2794,
+    "patrol": 5426,
     "raid": 7973,
     "story": 684,
-    "allStrikes": 1864,
-    "allPvE": 17531,
+    "allStrikes": 3344,
+    "allPvE": 22481,
     "allPvECompetitive": 6576
   },
   "2019-07-07T00:00:00Z": {
     "allPvP": 1175,
-    "patrol": 4610,
-    "allStrikes": 2972,
-    "allPvE": 10668,
-    "allPvECompetitive": 3601
+    "patrol": 6009,
+    "allStrikes": 5097,
+    "allPvE": 16865,
+    "allPvECompetitive": 3601,
+    "story": 745
   },
   "2019-07-08T00:00:00Z": {
     "allPvP": 1911,
@@ -1423,34 +1454,34 @@
   },
   "2019-07-15T00:00:00Z": {
     "allPvP": 5398,
-    "patrol": 3113,
+    "patrol": 3733,
     "allStrikes": 1781,
-    "allPvE": 7096,
+    "allPvE": 8091,
     "allPvECompetitive": 1816
   },
   "2019-07-19T00:00:00Z": {
     "allPvP": 876,
-    "patrol": 5203,
-    "story": 2485,
-    "allStrikes": 573,
-    "allPvE": 9069,
+    "patrol": 6805,
+    "story": 2610,
+    "allStrikes": 1710,
+    "allPvE": 14653,
     "allPvECompetitive": 1620
   },
   "2019-07-23T00:00:00Z": {
     "allPvP": 8788,
-    "patrol": 5737,
+    "patrol": 7829,
     "story": 219,
-    "allStrikes": 433,
-    "allPvE": 10872,
+    "allStrikes": 2295,
+    "allPvE": 16137,
     "allPvECompetitive": 731
   },
   "2019-07-24T00:00:00Z": {
     "allPvP": 11201,
-    "patrol": 10681,
+    "patrol": 10759,
     "raid": 7218,
     "story": 2457,
     "allStrikes": 2152,
-    "allPvE": 23776
+    "allPvE": 23854
   },
   "2019-07-25T00:00:00Z": {
     "allPvP": 1548,
@@ -1495,8 +1526,9 @@
     "patrol": 7709,
     "story": 2687,
     "allStrikes": 6645,
-    "allPvE": 17426,
-    "allPvECompetitive": 1761
+    "allPvE": 23258,
+    "allPvECompetitive": 1761,
+    "raid": 5832
   },
   "2019-07-01T00:00:00Z": {
     "patrol": 4629,
@@ -1559,31 +1591,31 @@
     "allPvECompetitive": 708
   },
   "2019-07-17T00:00:00Z": {
-    "patrol": 4907,
+    "patrol": 5317,
     "allStrikes": 2833,
-    "allPvE": 12411,
+    "allPvE": 12821,
     "allPvECompetitive": 3539
   },
   "2019-07-18T00:00:00Z": {
-    "patrol": 8597,
+    "patrol": 10070,
     "raid": 907,
     "story": 3203,
-    "allStrikes": 4268,
-    "allPvE": 17890
+    "allStrikes": 6081,
+    "allPvE": 21504
   },
   "2019-07-20T00:00:00Z": {
-    "patrol": 1079,
+    "patrol": 1191,
     "raid": 1429,
     "story": 6964,
     "allStrikes": 744,
-    "allPvE": 10216
+    "allPvE": 10328
   },
   "2019-07-21T00:00:00Z": {
-    "patrol": 1286,
+    "patrol": 1776,
     "raid": 7702,
     "story": 1222,
     "allStrikes": 3080,
-    "allPvE": 13290,
+    "allPvE": 13780,
     "allPvECompetitive": 3627
   },
   "2019-07-22T00:00:00Z": {
@@ -1591,16 +1623,17 @@
     "allPvE": 817
   },
   "2019-07-28T00:00:00Z": {
-    "patrol": 534,
-    "allStrikes": 165,
-    "allPvE": 1295
+    "patrol": 2575,
+    "allStrikes": 754,
+    "allPvE": 9182,
+    "story": 3939
   },
   "2019-08-02T00:00:00Z": {
     "allPvP": 3162,
     "patrol": 4873,
-    "story": 8372,
+    "story": 10101,
     "allStrikes": 586,
-    "allPvE": 16310,
+    "allPvE": 18039,
     "allPvECompetitive": 4723
   },
   "2019-08-03T00:00:00Z": {
@@ -1653,25 +1686,25 @@
   },
   "2019-08-19T00:00:00Z": {
     "allPvP": 8819,
-    "patrol": 1466,
+    "patrol": 2579,
     "story": 3140,
-    "allStrikes": 1104,
-    "allPvE": 5710
+    "allStrikes": 1634,
+    "allPvE": 8147
   },
   "2019-08-23T00:00:00Z": {
     "allPvP": 1029,
-    "patrol": 13325,
+    "patrol": 14702,
     "raid": 7223,
-    "story": 655,
-    "allStrikes": 1258,
-    "allPvE": 23375
+    "story": 1545,
+    "allStrikes": 1737,
+    "allPvE": 26497
   },
   "2019-08-27T00:00:00Z": {
     "allPvP": 8278,
-    "patrol": 130,
+    "patrol": 1270,
     "story": 2782,
     "allStrikes": 574,
-    "allPvE": 7750
+    "allPvE": 8923
   },
   "2019-08-28T00:00:00Z": {
     "allPvP": 1705,
@@ -1691,10 +1724,10 @@
   },
   "2019-08-01T00:00:00Z": {
     "patrol": 7358,
-    "raid": 1792,
+    "raid": 3130,
     "story": 5372,
     "allStrikes": 3216,
-    "allPvE": 18518,
+    "allPvE": 19856,
     "allPvECompetitive": 5189
   },
   "2019-08-05T00:00:00Z": {
@@ -1733,25 +1766,26 @@
     "allPvE": 37926
   },
   "2019-08-20T00:00:00Z": {
-    "patrol": 8631,
+    "patrol": 10294,
     "raid": 8444,
-    "story": 2809,
+    "story": 3279,
     "allStrikes": 4961,
-    "allPvE": 24845,
+    "allPvE": 26978,
     "allPvECompetitive": 583
   },
   "2019-08-21T00:00:00Z": {
-    "patrol": 6801,
+    "patrol": 9226,
     "raid": 4249,
-    "story": 425,
-    "allPvE": 12123
+    "story": 6805,
+    "allPvE": 28580,
+    "allStrikes": 7652
   },
   "2019-08-22T00:00:00Z": {
-    "patrol": 6577,
+    "patrol": 12320,
     "story": 8096,
-    "allStrikes": 602,
-    "allPvE": 16471,
-    "allPvECompetitive": 3137
+    "allStrikes": 1159,
+    "allPvE": 22771,
+    "allPvECompetitive": 4678
   },
   "2019-08-24T00:00:00Z": {
     "patrol": 6122,
@@ -1760,15 +1794,16 @@
     "allPvECompetitive": 6032
   },
   "2019-08-25T00:00:00Z": {
-    "patrol": 1349,
-    "allPvE": 12613,
-    "allPvECompetitive": 4841
+    "patrol": 1430,
+    "allPvE": 14980,
+    "allPvECompetitive": 4841,
+    "story": 376
   },
   "2019-08-26T00:00:00Z": {
-    "patrol": 1607,
-    "raid": 3262,
-    "story": 3201,
-    "allPvE": 15433
+    "patrol": 3833,
+    "raid": 5352,
+    "story": 3994,
+    "allPvE": 20542
   },
   "2019-08-29T00:00:00Z": {
     "patrol": 4188,
@@ -1778,29 +1813,30 @@
     "allPvE": 22095
   },
   "2019-08-31T00:00:00Z": {
-    "patrol": 420,
-    "raid": 7667,
-    "story": 3387,
-    "allPvE": 11474
+    "patrol": 7289,
+    "raid": 19098,
+    "story": 3802,
+    "allPvE": 33349,
+    "allStrikes": 488
   },
   "2019-08-13T00:00:00Z": {
     "allPvE": 6585
   },
   "2019-09-01T00:00:00Z": {
     "allPvP": 4934,
-    "patrol": 1613,
+    "patrol": 5785,
     "story": 890,
     "allStrikes": 1084,
-    "allPvE": 7317,
+    "allPvE": 11489,
     "allPvECompetitive": 6034
   },
   "2019-09-09T00:00:00Z": {
     "allPvP": 549,
-    "patrol": 972,
+    "patrol": 7158,
     "raid": 566,
-    "story": 3506,
-    "allStrikes": 725,
-    "allPvE": 6606,
+    "story": 4073,
+    "allStrikes": 3226,
+    "allPvE": 16661,
     "allPvECompetitive": 1838
   },
   "2019-09-12T00:00:00Z": {
@@ -1819,10 +1855,11 @@
   },
   "2019-09-17T00:00:00Z": {
     "allPvP": 6896,
-    "patrol": 3753,
+    "patrol": 5654,
     "story": 1024,
-    "allPvE": 5535,
-    "allPvECompetitive": 5983
+    "allPvE": 12150,
+    "allPvECompetitive": 5983,
+    "allStrikes": 2357
   },
   "2019-09-19T00:00:00Z": {
     "allPvP": 2611,
@@ -1834,14 +1871,14 @@
   },
   "2019-09-21T00:00:00Z": {
     "allPvP": 4369,
-    "patrol": 2500,
-    "raid": 9829,
+    "patrol": 2652,
+    "raid": 10324,
     "story": 5149,
-    "allPvE": 29016,
+    "allPvE": 29663,
     "allPvECompetitive": 6946
   },
   "2019-09-25T00:00:00Z": {
-    "allPvP": 4923,
+    "allPvP": 6719,
     "patrol": 4044,
     "story": 887,
     "allStrikes": 1382,
@@ -1854,10 +1891,11 @@
     "allPvE": 13723
   },
   "2019-09-02T00:00:00Z": {
-    "patrol": 2704,
+    "patrol": 3886,
     "allStrikes": 1191,
-    "allPvE": 11526,
-    "allPvECompetitive": 3551
+    "allPvE": 13599,
+    "allPvECompetitive": 5892,
+    "story": 423
   },
   "2019-09-03T00:00:00Z": {
     "patrol": 10964,
@@ -1880,31 +1918,32 @@
     "allPvE": 11334
   },
   "2019-09-06T00:00:00Z": {
-    "patrol": 4440,
+    "patrol": 6319,
     "raid": 13644,
-    "allStrikes": 1930,
-    "allPvE": 20881,
-    "allPvECompetitive": 575
+    "allStrikes": 3244,
+    "allPvE": 24074,
+    "allPvECompetitive": 2133
   },
   "2019-09-07T00:00:00Z": {
-    "patrol": 1227,
+    "patrol": 5702,
     "raid": 7331,
-    "story": 1845,
+    "story": 2313,
     "allStrikes": 2017,
-    "allPvE": 13142,
+    "allPvE": 20101,
     "allPvECompetitive": 3421
   },
   "2019-09-08T00:00:00Z": {
     "patrol": 1398,
-    "raid": 8255,
+    "raid": 12351,
     "allStrikes": 641,
-    "allPvE": 21435,
+    "allPvE": 25531,
     "allPvECompetitive": 1547
   },
   "2019-09-10T00:00:00Z": {
-    "patrol": 802,
+    "patrol": 10489,
     "raid": 1196,
-    "allPvE": 2360
+    "allPvE": 15148,
+    "allStrikes": 495
   },
   "2019-09-11T00:00:00Z": {
     "patrol": 6414,
@@ -1914,10 +1953,12 @@
     "allPvECompetitive": 2082
   },
   "2019-09-13T00:00:00Z": {
-    "patrol": 335,
+    "patrol": 2627,
     "raid": 8090,
-    "allPvE": 13874,
-    "allPvECompetitive": 1110
+    "allPvE": 18832,
+    "allPvECompetitive": 1110,
+    "story": 454,
+    "allStrikes": 1806
   },
   "2019-09-14T00:00:00Z": {
     "patrol": 1563,
@@ -1930,17 +1971,17 @@
     "allPvE": 16138
   },
   "2019-09-20T00:00:00Z": {
-    "patrol": 3146,
+    "patrol": 3803,
     "raid": 7893,
     "story": 839,
     "allStrikes": 1644,
-    "allPvE": 19256,
+    "allPvE": 22117,
     "allPvECompetitive": 5720
   },
   "2019-09-22T00:00:00Z": {
     "patrol": 2339,
-    "allStrikes": 672,
-    "allPvE": 11928,
+    "allStrikes": 1673,
+    "allPvE": 13862,
     "allPvECompetitive": 7281
   },
   "2019-09-23T00:00:00Z": {
@@ -1957,18 +1998,19 @@
     "allPvE": 20673
   },
   "2019-09-26T00:00:00Z": {
-    "patrol": 3872,
+    "patrol": 3966,
     "raid": 736,
     "story": 1189,
     "allStrikes": 1692,
-    "allPvE": 7804,
-    "allPvECompetitive": 1324
+    "allPvE": 7898,
+    "allPvECompetitive": 1324,
+    "allPvP": 7040
   },
   "2019-09-27T00:00:00Z": {
-    "patrol": 2025,
-    "raid": 6731,
+    "patrol": 2853,
+    "raid": 9712,
     "story": 693,
-    "allPvE": 13034
+    "allPvE": 18733
   },
   "2019-09-28T00:00:00Z": {
     "patrol": 2899,
@@ -2050,7 +2092,8 @@
     "allPvP": 3695,
     "patrol": 3485,
     "allStrikes": 4764,
-    "allPvE": 8249
+    "allPvE": 12418,
+    "raid": 4169
   },
   "2019-10-23T00:00:00Z": {
     "allPvP": 11154,
@@ -2062,9 +2105,9 @@
   "2019-10-24T00:00:00Z": {
     "allPvP": 2375,
     "patrol": 1408,
-    "raid": 3468,
+    "raid": 4084,
     "allStrikes": 5757,
-    "allPvE": 13334,
+    "allPvE": 13950,
     "allPvECompetitive": 2387
   },
   "2019-10-26T00:00:00Z": {
@@ -2075,9 +2118,10 @@
   },
   "2019-10-29T00:00:00Z": {
     "allPvP": 3702,
-    "patrol": 7821,
+    "patrol": 8533,
     "story": 2907,
-    "allPvE": 11638
+    "allPvE": 14844,
+    "allStrikes": 683
   },
   "2019-10-30T00:00:00Z": {
     "allPvP": 3094,
@@ -2161,10 +2205,11 @@
     "allPvECompetitive": 1849
   },
   "2019-10-22T00:00:00Z": {
-    "patrol": 7184,
+    "patrol": 7278,
     "raid": 438,
-    "allStrikes": 5049,
-    "allPvE": 17863
+    "allStrikes": 6719,
+    "allPvE": 20772,
+    "story": 1145
   },
   "2019-10-25T00:00:00Z": {
     "patrol": 4914,
@@ -2173,15 +2218,17 @@
     "allPvE": 33762
   },
   "2019-10-27T00:00:00Z": {
-    "patrol": 7228,
-    "allStrikes": 7061,
-    "allPvE": 17119,
-    "allPvECompetitive": 10433
+    "patrol": 12138,
+    "allStrikes": 9675,
+    "allPvE": 25955,
+    "allPvECompetitive": 10433,
+    "allPvP": 2055,
+    "story": 1312
   },
   "2019-10-28T00:00:00Z": {
-    "patrol": 4827,
-    "allStrikes": 2335,
-    "allPvE": 9006
+    "patrol": 7755,
+    "allStrikes": 3698,
+    "allPvE": 13671
   },
   "2019-11-02T00:00:00Z": {
     "allPvP": 3755,
@@ -2206,21 +2253,22 @@
     "allPvP": 2672,
     "patrol": 1429,
     "raid": 20389,
-    "allStrikes": 3075,
-    "allPvE": 24893
+    "allStrikes": 4473,
+    "allPvE": 26291
   },
   "2019-11-10T00:00:00Z": {
     "allPvP": 7657,
     "patrol": 3187,
     "story": 3295,
-    "allStrikes": 2391,
-    "allPvE": 22421
+    "allStrikes": 3270,
+    "allPvE": 23300
   },
   "2019-11-11T00:00:00Z": {
     "allPvP": 635,
-    "patrol": 3085,
-    "allStrikes": 718,
-    "allPvE": 3803
+    "patrol": 5060,
+    "allStrikes": 3595,
+    "allPvE": 9282,
+    "story": 627
   },
   "2019-11-15T00:00:00Z": {
     "allPvP": 3208,
@@ -2232,14 +2280,15 @@
   },
   "2019-11-21T00:00:00Z": {
     "allPvP": 5555,
-    "patrol": 485,
-    "allStrikes": 2072,
-    "allPvE": 2557
+    "patrol": 702,
+    "allStrikes": 3321,
+    "allPvE": 6373
   },
   "2019-11-22T00:00:00Z": {
     "allPvP": 885,
     "patrol": 211,
-    "allPvE": 1174
+    "allPvE": 2375,
+    "allStrikes": 1201
   },
   "2019-11-23T00:00:00Z": {
     "allPvP": 16326,
@@ -2247,7 +2296,7 @@
     "raid": 7227,
     "story": 1242,
     "allStrikes": 3034,
-    "allPvE": 14275
+    "allPvE": 16213
   },
   "2019-11-25T00:00:00Z": {
     "allPvP": 5664,
@@ -2308,7 +2357,7 @@
     "raid": 1573,
     "story": 2561,
     "allStrikes": 3185,
-    "allPvE": 14599
+    "allPvE": 17434
   },
   "2019-11-14T00:00:00Z": {
     "patrol": 4794,
@@ -2318,9 +2367,9 @@
   },
   "2019-11-16T00:00:00Z": {
     "patrol": 7376,
-    "raid": 12423,
+    "raid": 15787,
     "allStrikes": 1966,
-    "allPvE": 23585,
+    "allPvE": 26949,
     "allPvECompetitive": 1437
   },
   "2019-11-17T00:00:00Z": {
@@ -2329,10 +2378,10 @@
     "allPvE": 22559
   },
   "2019-11-18T00:00:00Z": {
-    "patrol": 9345,
+    "patrol": 10152,
     "story": 1403,
-    "allStrikes": 2668,
-    "allPvE": 18922
+    "allStrikes": 8840,
+    "allPvE": 26507
   },
   "2019-11-19T00:00:00Z": {
     "patrol": 1488,
@@ -2360,15 +2409,16 @@
     "allPvE": 24813
   },
   "2019-11-28T00:00:00Z": {
-    "patrol": 2269,
-    "allPvE": 2269
+    "patrol": 4577,
+    "allPvE": 10462,
+    "allStrikes": 2939
   },
   "2019-12-06T00:00:00Z": {
     "allPvP": 1039,
     "patrol": 6178,
     "raid": 9942,
-    "allStrikes": 883,
-    "allPvE": 19289,
+    "allStrikes": 2671,
+    "allPvE": 23374,
     "allPvECompetitive": 2047
   },
   "2019-12-07T00:00:00Z": {
@@ -2396,9 +2446,9 @@
   },
   "2019-12-15T00:00:00Z": {
     "allPvP": 5004,
-    "patrol": 4363,
-    "allStrikes": 3185,
-    "allPvE": 9964
+    "patrol": 4401,
+    "allStrikes": 8569,
+    "allPvE": 15386
   },
   "2019-12-19T00:00:00Z": {
     "allPvP": 955,
@@ -2409,15 +2459,16 @@
   },
   "2019-12-21T00:00:00Z": {
     "allPvP": 641,
-    "patrol": 8104,
+    "patrol": 8324,
     "raid": 501,
     "allStrikes": 4578,
-    "allPvE": 17330,
+    "allPvE": 17550,
     "allPvECompetitive": 3178
   },
   "2019-12-01T00:00:00Z": {
     "patrol": 3764,
-    "allPvE": 3764
+    "allPvE": 6271,
+    "allStrikes": 2507
   },
   "2019-12-03T00:00:00Z": {
     "patrol": 1252,
@@ -2426,7 +2477,7 @@
   "2019-12-04T00:00:00Z": {
     "patrol": 1668,
     "allStrikes": 5099,
-    "allPvE": 7825
+    "allPvE": 9892
   },
   "2019-12-05T00:00:00Z": {
     "patrol": 868,
@@ -2442,7 +2493,7 @@
   "2019-12-11T00:00:00Z": {
     "patrol": 3920,
     "allStrikes": 5173,
-    "allPvE": 14839
+    "allPvE": 19428
   },
   "2019-12-12T00:00:00Z": {
     "patrol": 9177,
@@ -2483,15 +2534,17 @@
     "allPvECompetitive": 1189
   },
   "2019-12-22T00:00:00Z": {
-    "patrol": 1334,
-    "raid": 66,
-    "allStrikes": 1980,
-    "allPvE": 4966,
+    "patrol": 6273,
+    "raid": 1414,
+    "allStrikes": 4235,
+    "allPvE": 13508,
     "allPvECompetitive": 2116
   },
   "2019-12-23T00:00:00Z": {
-    "patrol": 2751,
-    "allPvE": 7428
+    "patrol": 6721,
+    "allPvE": 15529,
+    "raid": 661,
+    "allStrikes": 2647
   },
   "2019-12-25T00:00:00Z": {
     "patrol": 13350,
@@ -2506,10 +2559,10 @@
     "allPvECompetitive": 1490
   },
   "2019-12-28T00:00:00Z": {
-    "patrol": 6631,
+    "patrol": 6770,
     "raid": 6128,
     "allStrikes": 2242,
-    "allPvE": 15001
+    "allPvE": 15140
   },
   "2019-12-29T00:00:00Z": {
     "patrol": 1130,
@@ -2530,8 +2583,8 @@
   "2020-01-05T00:00:00Z": {
     "allPvP": 837,
     "patrol": 7437,
-    "allStrikes": 854,
-    "allPvE": 17219,
+    "allStrikes": 2720,
+    "allPvE": 19085,
     "allPvECompetitive": 3434
   },
   "2020-01-10T00:00:00Z": {
@@ -2614,13 +2667,14 @@
   },
   "2020-01-12T00:00:00Z": {
     "patrol": 2226,
-    "allPvE": 5476,
-    "allPvECompetitive": 466
+    "allPvE": 8501,
+    "allPvECompetitive": 466,
+    "allStrikes": 3025
   },
   "2020-01-13T00:00:00Z": {
-    "patrol": 4778,
+    "patrol": 4988,
     "story": 554,
-    "allPvE": 8608
+    "allPvE": 8818
   },
   "2020-01-14T00:00:00Z": {
     "patrol": 4981,
@@ -2691,7 +2745,7 @@
     "patrol": 11292,
     "story": 570,
     "allStrikes": 2749,
-    "allPvE": 18008,
+    "allPvE": 20540,
     "allPvECompetitive": 1500
   },
   "2020-02-06T00:00:00Z": {
@@ -2710,8 +2764,8 @@
   "2020-02-12T00:00:00Z": {
     "allPvP": 1505,
     "patrol": 13092,
-    "allStrikes": 9580,
-    "allPvE": 26567
+    "allStrikes": 11625,
+    "allPvE": 28612
   },
   "2020-02-16T00:00:00Z": {
     "allPvP": 24239,
@@ -2749,8 +2803,8 @@
   "2020-02-04T00:00:00Z": {
     "patrol": 5443,
     "raid": 8739,
-    "allStrikes": 4139,
-    "allPvE": 22336
+    "allStrikes": 6059,
+    "allPvE": 24256
   },
   "2020-02-05T00:00:00Z": {
     "patrol": 5756,
@@ -2767,8 +2821,9 @@
   },
   "2020-02-09T00:00:00Z": {
     "patrol": 4724,
-    "allPvE": 4724,
-    "allPvECompetitive": 1043
+    "allPvE": 9268,
+    "allPvECompetitive": 1043,
+    "allStrikes": 4544
   },
   "2020-02-10T00:00:00Z": {
     "patrol": 5935,
@@ -2808,7 +2863,7 @@
   "2020-02-20T00:00:00Z": {
     "patrol": 6698,
     "allStrikes": 2909,
-    "allPvE": 12883
+    "allPvE": 15166
   },
   "2020-02-22T00:00:00Z": {
     "patrol": 432,
@@ -2861,7 +2916,7 @@
     "allPvP": 9362,
     "patrol": 2947,
     "allStrikes": 2627,
-    "allPvE": 10361
+    "allPvE": 11963
   },
   "2020-03-21T00:00:00Z": {
     "allPvP": 5755,
@@ -2910,7 +2965,8 @@
   },
   "2020-03-03T00:00:00Z": {
     "patrol": 574,
-    "allPvE": 574
+    "allPvE": 3718,
+    "allStrikes": 3144
   },
   "2020-03-04T00:00:00Z": {
     "patrol": 3491,
@@ -2920,7 +2976,8 @@
   "2020-03-05T00:00:00Z": {
     "patrol": 5167,
     "allStrikes": 707,
-    "allPvE": 8155
+    "allPvE": 8223,
+    "story": 68
   },
   "2020-03-06T00:00:00Z": {
     "patrol": 5217,
@@ -2934,7 +2991,9 @@
   },
   "2020-03-08T00:00:00Z": {
     "patrol": 131,
-    "allPvE": 131
+    "allPvE": 3303,
+    "story": 73,
+    "allStrikes": 3099
   },
   "2020-03-09T00:00:00Z": {
     "patrol": 1294,
@@ -2993,9 +3052,10 @@
   },
   "2020-04-02T00:00:00Z": {
     "allPvP": 2535,
-    "patrol": 8788,
+    "patrol": 8911,
     "allStrikes": 8129,
-    "allPvE": 20174
+    "allPvE": 22314,
+    "story": 91
   },
   "2020-04-06T00:00:00Z": {
     "allPvP": 8546,
@@ -3015,8 +3075,8 @@
     "patrol": 4519,
     "raid": 7621,
     "story": 2151,
-    "allStrikes": 2065,
-    "allPvE": 19114
+    "allStrikes": 3734,
+    "allPvE": 20783
   },
   "2020-04-12T00:00:00Z": {
     "allPvP": 3190,
@@ -3053,7 +3113,9 @@
     "allPvE": 15739
   },
   "2020-04-18T00:00:00Z": {
-    "allPvP": 26299
+    "allPvP": 26299,
+    "allStrikes": 3195,
+    "allPvE": 3195
   },
   "2020-04-20T00:00:00Z": {
     "allPvP": 5706,
@@ -3066,9 +3128,9 @@
   "2020-04-21T00:00:00Z": {
     "allPvP": 965,
     "patrol": 180,
-    "raid": 12280,
+    "raid": 18496,
     "allStrikes": 1806,
-    "allPvE": 14266
+    "allPvE": 20482
   },
   "2020-04-22T00:00:00Z": {
     "allPvP": 1071,
@@ -3078,24 +3140,26 @@
     "allPvECompetitive": 3351
   },
   "2020-04-24T00:00:00Z": {
-    "allPvP": 4116,
-    "patrol": 584,
+    "allPvP": 6188,
+    "patrol": 3982,
     "raid": 7987,
-    "allPvE": 8571
+    "allPvE": 12028,
+    "story": 59
   },
   "2020-04-25T00:00:00Z": {
     "allPvP": 15158,
-    "patrol": 2506,
-    "allStrikes": 2594,
-    "allPvE": 7432,
-    "allPvECompetitive": 710
+    "patrol": 3592,
+    "allStrikes": 7914,
+    "allPvE": 13878,
+    "allPvECompetitive": 710,
+    "story": 40
   },
   "2020-04-26T00:00:00Z": {
     "allPvP": 753,
-    "patrol": 3573,
+    "patrol": 4284,
     "allStrikes": 2332,
-    "allPvE": 5905,
-    "allPvECompetitive": 890
+    "allPvE": 11939,
+    "allPvECompetitive": 5426
   },
   "2020-04-30T00:00:00Z": {
     "allPvP": 3015,
@@ -3170,10 +3234,10 @@
   },
   "2020-05-03T00:00:00Z": {
     "allPvP": 10991,
-    "patrol": 3555,
+    "patrol": 5113,
     "raid": 4714,
-    "allStrikes": 1210,
-    "allPvE": 9479
+    "allStrikes": 5014,
+    "allPvE": 14841
   },
   "2020-05-09T00:00:00Z": {
     "allPvP": 4923,
@@ -3182,13 +3246,14 @@
     "allPvE": 8083
   },
   "2020-05-10T00:00:00Z": {
-    "allPvP": 3022,
+    "allPvP": 3586,
     "raid": 6629,
-    "allStrikes": 4569,
-    "allPvE": 12537
+    "allStrikes": 12383,
+    "allPvE": 20559,
+    "patrol": 208
   },
   "2020-05-11T00:00:00Z": {
-    "allPvP": 1466,
+    "allPvP": 2315,
     "patrol": 1571,
     "allStrikes": 1102,
     "allPvE": 2673
@@ -3219,23 +3284,24 @@
   },
   "2020-05-17T00:00:00Z": {
     "allPvP": 1891,
-    "patrol": 4382,
+    "patrol": 5372,
     "story": 3427,
     "allStrikes": 8546,
-    "allPvE": 17953,
+    "allPvE": 19301,
     "allPvECompetitive": 2575
   },
   "2020-05-22T00:00:00Z": {
     "allPvP": 6109,
-    "patrol": 1956,
+    "patrol": 4224,
     "allStrikes": 5095,
-    "allPvE": 13092
+    "allPvE": 15859,
+    "story": 499
   },
   "2020-05-23T00:00:00Z": {
     "allPvP": 9898,
-    "patrol": 2212,
+    "patrol": 2284,
     "allStrikes": 2346,
-    "allPvE": 7599
+    "allPvE": 7671
   },
   "2020-05-28T00:00:00Z": {
     "allPvP": 7069,
@@ -3268,14 +3334,14 @@
     "allPvE": 38128
   },
   "2020-05-02T00:00:00Z": {
-    "patrol": 1202,
+    "patrol": 3699,
     "allStrikes": 670,
-    "allPvE": 3646
+    "allPvE": 6322
   },
   "2020-05-04T00:00:00Z": {
-    "patrol": 7436,
+    "patrol": 9823,
     "allStrikes": 4948,
-    "allPvE": 13789
+    "allPvE": 16176
   },
   "2020-05-05T00:00:00Z": {
     "patrol": 1489,
@@ -3310,9 +3376,9 @@
     "allPvE": 15080
   },
   "2020-05-18T00:00:00Z": {
-    "patrol": 14395,
+    "patrol": 14425,
     "story": 288,
-    "allPvE": 14683
+    "allPvE": 14713
   },
   "2020-05-19T00:00:00Z": {
     "patrol": 4849,
@@ -3321,9 +3387,9 @@
     "allPvECompetitive": 1719
   },
   "2020-05-20T00:00:00Z": {
-    "patrol": 1266,
+    "patrol": 1469,
     "allStrikes": 15664,
-    "allPvE": 16930,
+    "allPvE": 19062,
     "allPvECompetitive": 5486
   },
   "2020-05-21T00:00:00Z": {
@@ -3385,15 +3451,17 @@
   },
   "2020-06-13T00:00:00Z": {
     "allPvP": 1762,
-    "patrol": 6505,
-    "allStrikes": 1631,
-    "allPvE": 14684
+    "patrol": 6860,
+    "allStrikes": 3605,
+    "allPvE": 18202,
+    "story": 794
   },
   "2020-06-14T00:00:00Z": {
     "allPvP": 5212,
-    "patrol": 9210,
+    "patrol": 9513,
     "allStrikes": 2847,
-    "allPvE": 14611
+    "allPvE": 15629,
+    "story": 715
   },
   "2020-06-18T00:00:00Z": {
     "allPvP": 2561,
@@ -3405,24 +3473,24 @@
   },
   "2020-06-20T00:00:00Z": {
     "allPvP": 9318,
-    "patrol": 5064,
+    "patrol": 7217,
     "raid": 11033,
-    "allStrikes": 1891,
-    "allPvE": 24162
+    "allStrikes": 2604,
+    "allPvE": 27028
   },
   "2020-06-21T00:00:00Z": {
     "allPvP": 314,
-    "patrol": 12360,
-    "allStrikes": 469,
-    "allPvE": 13228,
+    "patrol": 13895,
+    "allStrikes": 2490,
+    "allPvE": 16784,
     "allPvECompetitive": 1512
   },
   "2020-06-26T00:00:00Z": {
     "allPvP": 6979,
     "patrol": 8458,
-    "raid": 5882,
+    "raid": 6898,
     "allStrikes": 2040,
-    "allPvE": 16380,
+    "allPvE": 17396,
     "allPvECompetitive": 847
   },
   "2020-06-27T00:00:00Z": {
@@ -3430,7 +3498,7 @@
     "patrol": 9810,
     "raid": 7462,
     "story": 2360,
-    "allPvE": 24496
+    "allPvE": 25728
   },
   "2020-06-29T00:00:00Z": {
     "allPvP": 7182,
@@ -3439,9 +3507,9 @@
   },
   "2020-06-30T00:00:00Z": {
     "allPvP": 607,
-    "patrol": 2845,
+    "patrol": 3057,
     "allStrikes": 4311,
-    "allPvE": 7156
+    "allPvE": 7368
   },
   "2020-06-02T00:00:00Z": {
     "patrol": 3520,
@@ -3454,7 +3522,7 @@
     "raid": 9277,
     "story": 405,
     "allStrikes": 4684,
-    "allPvE": 24243
+    "allPvE": 25136
   },
   "2020-06-09T00:00:00Z": {
     "patrol": 6735,
@@ -3465,14 +3533,15 @@
   "2020-06-10T00:00:00Z": {
     "patrol": 3551,
     "raid": 9992,
-    "story": 959,
-    "allPvE": 29083
+    "story": 1018,
+    "allPvE": 29884
   },
   "2020-06-12T00:00:00Z": {
-    "patrol": 5760,
+    "patrol": 11613,
     "raid": 7137,
     "allStrikes": 3194,
-    "allPvE": 39831
+    "allPvE": 48503,
+    "story": 2208
   },
   "2020-06-15T00:00:00Z": {
     "patrol": 203,
@@ -3495,9 +3564,9 @@
     "allPvE": 34258
   },
   "2020-06-22T00:00:00Z": {
-    "patrol": 3931,
+    "patrol": 7340,
     "allStrikes": 838,
-    "allPvE": 5030
+    "allPvE": 8439
   },
   "2020-06-23T00:00:00Z": {
     "patrol": 5447,
@@ -3600,7 +3669,8 @@
     "raid": 5740,
     "story": 2776,
     "allStrikes": 1089,
-    "allPvE": 22410
+    "allPvE": 22410,
+    "allPvP": 6051
   },
   "2020-07-08T00:00:00Z": {
     "patrol": 5301,
@@ -3675,8 +3745,8 @@
   },
   "2020-07-31T00:00:00Z": {
     "patrol": 400,
-    "allStrikes": 697,
-    "allPvE": 1097
+    "allStrikes": 3368,
+    "allPvE": 3768
   },
   "2020-08-09T00:00:00Z": {
     "allPvP": 5932,
@@ -3687,9 +3757,9 @@
   },
   "2020-08-10T00:00:00Z": {
     "allPvP": 1932,
-    "patrol": 6018,
+    "patrol": 6356,
     "allStrikes": 3622,
-    "allPvE": 14860
+    "allPvE": 15198
   },
   "2020-08-11T00:00:00Z": {
     "allPvP": 829,
@@ -3724,16 +3794,16 @@
     "allPvP": 3490,
     "patrol": 370,
     "raid": 8417,
-    "story": 2644,
-    "allStrikes": 7551,
-    "allPvE": 18982
+    "story": 3802,
+    "allStrikes": 14541,
+    "allPvE": 27130
   },
   "2020-08-26T00:00:00Z": {
-    "allPvP": 1170,
-    "patrol": 2597,
+    "allPvP": 4465,
+    "patrol": 2809,
     "story": 1607,
-    "allStrikes": 3971,
-    "allPvE": 9909
+    "allStrikes": 7853,
+    "allPvE": 14003
   },
   "2020-08-07T00:00:00Z": {
     "patrol": 1104,
@@ -3793,12 +3863,12 @@
   },
   "2020-08-27T00:00:00Z": {
     "patrol": 6945,
-    "story": 610,
-    "allPvE": 7555
+    "story": 1244,
+    "allPvE": 8189
   },
   "2020-08-28T00:00:00Z": {
-    "patrol": 7862,
-    "allPvE": 7862
+    "patrol": 8072,
+    "allPvE": 8072
   },
   "2020-08-29T00:00:00Z": {
     "patrol": 8004,
@@ -3806,15 +3876,15 @@
     "allPvE": 11449
   },
   "2020-08-31T00:00:00Z": {
-    "patrol": 10131,
+    "patrol": 10256,
     "story": 1265,
-    "allStrikes": 603,
-    "allPvE": 11999
+    "allStrikes": 4146,
+    "allPvE": 15667
   },
   "2020-08-15T00:00:00Z": {
-    "raid": 9162,
+    "raid": 11015,
     "allStrikes": 603,
-    "allPvE": 12784
+    "allPvE": 14637
   },
   "2020-09-03T00:00:00Z": {
     "allPvP": 1833,
@@ -3837,18 +3907,19 @@
   },
   "2020-09-12T00:00:00Z": {
     "allPvP": 5525,
-    "patrol": 3636,
+    "patrol": 3786,
     "raid": 10284,
     "story": 391,
     "allStrikes": 2603,
-    "allPvE": 21083
+    "allPvE": 21233
   },
   "2020-09-14T00:00:00Z": {
     "allPvP": 2118,
-    "patrol": 539,
-    "allStrikes": 6899,
-    "allPvE": 9682,
-    "allPvECompetitive": 2395
+    "patrol": 2155,
+    "allStrikes": 13063,
+    "allPvE": 18203,
+    "allPvECompetitive": 2395,
+    "story": 288
   },
   "2020-09-20T00:00:00Z": {
     "allPvP": 1533,
@@ -3864,8 +3935,10 @@
     "allPvECompetitive": 3455
   },
   "2020-09-01T00:00:00Z": {
-    "patrol": 1349,
-    "allPvE": 3323
+    "patrol": 3800,
+    "allPvE": 10662,
+    "story": 646,
+    "allStrikes": 4242
   },
   "2020-09-02T00:00:00Z": {
     "patrol": 1955,
@@ -3875,22 +3948,26 @@
     "allPvE": 17483
   },
   "2020-09-04T00:00:00Z": {
-    "patrol": 1432,
+    "patrol": 2834,
     "raid": 401,
     "story": 979,
-    "allStrikes": 239,
-    "allPvE": 3051
+    "allStrikes": 1907,
+    "allPvE": 6121,
+    "allPvP": 605
   },
   "2020-09-05T00:00:00Z": {
     "patrol": 1945,
     "story": 2186,
-    "allStrikes": 1566,
-    "allPvE": 7447
+    "allStrikes": 3126,
+    "allPvE": 9007,
+    "allPvP": 643
   },
   "2020-09-06T00:00:00Z": {
-    "patrol": 875,
+    "patrol": 1745,
     "raid": 14415,
-    "allPvE": 15290
+    "allPvE": 16160,
+    "allPvP": 4322,
+    "allPvECompetitive": 3892
   },
   "2020-09-08T00:00:00Z": {
     "patrol": 4388,
@@ -3915,56 +3992,58 @@
     "allPvE": 6314
   },
   "2020-09-15T00:00:00Z": {
-    "patrol": 1882,
-    "story": 447,
+    "patrol": 2016,
+    "story": 1801,
     "allStrikes": 8576,
-    "allPvE": 16774
+    "allPvE": 18262
   },
   "2020-09-16T00:00:00Z": {
     "patrol": 3468,
-    "allStrikes": 6994,
-    "allPvE": 12854
+    "allStrikes": 10533,
+    "allPvE": 16393
   },
   "2020-09-17T00:00:00Z": {
-    "patrol": 1707,
-    "allStrikes": 47,
-    "allPvE": 1754
+    "patrol": 3028,
+    "allStrikes": 2364,
+    "allPvE": 5392
   },
   "2020-09-19T00:00:00Z": {
-    "patrol": 3177,
+    "patrol": 9693,
     "raid": 7363,
     "allStrikes": 8724,
-    "allPvE": 19264
+    "allPvE": 26853,
+    "allPvP": 2405
   },
   "2020-09-21T00:00:00Z": {
-    "patrol": 3427,
+    "patrol": 7410,
     "story": 1145,
-    "allStrikes": 4211,
-    "allPvE": 9534
+    "allStrikes": 8651,
+    "allPvE": 17957
   },
   "2020-09-22T00:00:00Z": {
-    "patrol": 2890,
-    "story": 2351,
-    "allStrikes": 3920,
-    "allPvE": 11543
+    "patrol": 12115,
+    "story": 3194,
+    "allStrikes": 7746,
+    "allPvE": 25941
   },
   "2020-09-23T00:00:00Z": {
-    "patrol": 2631,
-    "story": 2314,
-    "allStrikes": 3189,
-    "allPvE": 9563
+    "patrol": 5452,
+    "story": 2632,
+    "allStrikes": 7835,
+    "allPvE": 17348,
+    "allPvECompetitive": 3583
   },
   "2020-09-25T00:00:00Z": {
     "patrol": 3128,
     "story": 1815,
-    "allStrikes": 868,
-    "allPvE": 5811
+    "allStrikes": 1478,
+    "allPvE": 6421
   },
   "2020-09-28T00:00:00Z": {
-    "patrol": 3008,
-    "story": 1887,
-    "allStrikes": 961,
-    "allPvE": 7096
+    "patrol": 3684,
+    "story": 3993,
+    "allStrikes": 2038,
+    "allPvE": 10955
   },
   "2020-09-29T00:00:00Z": {
     "patrol": 2728,
@@ -3978,55 +4057,63 @@
   },
   "2020-09-18T00:00:00Z": {
     "raid": 10033,
-    "allPvE": 10714
+    "allPvE": 29487,
+    "patrol": 9680,
+    "allStrikes": 6571,
+    "story": 1066
   },
   "2020-09-26T00:00:00Z": {
-    "raid": 4109,
+    "raid": 5335,
     "allStrikes": 686,
-    "allPvE": 4795
+    "allPvE": 6021
   },
   "2020-10-02T00:00:00Z": {
     "allPvP": 5380,
     "patrol": 605,
-    "raid": 9917,
-    "allStrikes": 2727,
-    "allPvE": 16021,
+    "raid": 15735,
+    "allStrikes": 3074,
+    "allPvE": 25544,
     "allPvECompetitive": 1450
   },
   "2020-10-03T00:00:00Z": {
     "allPvP": 7150,
-    "patrol": 1606,
+    "patrol": 1833,
     "raid": 8325,
-    "allPvE": 9931
+    "allPvE": 12207,
+    "allStrikes": 2049
   },
   "2020-10-04T00:00:00Z": {
-    "allPvP": 5313,
+    "allPvP": 6864,
     "raid": 4947,
-    "allPvE": 6377
+    "allPvE": 13339,
+    "patrol": 157,
+    "story": 3085,
+    "allStrikes": 3720
   },
   "2020-10-13T00:00:00Z": {
     "allPvP": 2340,
-    "patrol": 2650,
-    "story": 2795,
+    "patrol": 3070,
+    "story": 3790,
     "allStrikes": 1700,
-    "allPvE": 9701
+    "allPvE": 11116
   },
   "2020-10-23T00:00:00Z": {
     "allPvP": 1007,
-    "patrol": 2045,
+    "patrol": 5466,
     "raid": 5333,
-    "allPvE": 14902
+    "allPvE": 18700
   },
   "2020-10-01T00:00:00Z": {
     "patrol": 991,
     "story": 490,
-    "allPvE": 1481
+    "allPvE": 2602,
+    "allStrikes": 1121
   },
   "2020-10-05T00:00:00Z": {
-    "patrol": 3815,
+    "patrol": 4534,
     "raid": 1687,
     "story": 2002,
-    "allPvE": 7504
+    "allPvE": 8223
   },
   "2020-10-06T00:00:00Z": {
     "patrol": 3974,
@@ -4042,24 +4129,27 @@
     "allPvE": 14007
   },
   "2020-10-08T00:00:00Z": {
-    "patrol": 1249,
-    "raid": 4732,
-    "story": 1755,
-    "allStrikes": 2604,
-    "allPvE": 15897
+    "patrol": 5453,
+    "raid": 5537,
+    "story": 4243,
+    "allStrikes": 7027,
+    "allPvE": 28632,
+    "allPvECompetitive": 2453
   },
   "2020-10-09T00:00:00Z": {
-    "patrol": 973,
-    "raid": 8311,
-    "story": 2369,
-    "allStrikes": 2639,
-    "allPvE": 17142
+    "patrol": 3802,
+    "raid": 8758,
+    "story": 3591,
+    "allStrikes": 3626,
+    "allPvE": 24690
   },
   "2020-10-10T00:00:00Z": {
-    "patrol": 2795,
+    "patrol": 3738,
     "raid": 5138,
     "allStrikes": 3865,
-    "allPvE": 12392
+    "allPvE": 17807,
+    "story": 3018,
+    "allPvP": 1166
   },
   "2020-10-11T00:00:00Z": {
     "patrol": 367,
@@ -4069,45 +4159,51 @@
     "allPvE": 13098
   },
   "2020-10-12T00:00:00Z": {
-    "patrol": 1739,
+    "patrol": 3115,
     "story": 976,
-    "allPvE": 2715
+    "allPvE": 4091,
+    "allPvP": 2044,
+    "allPvECompetitive": 3651
   },
   "2020-10-14T00:00:00Z": {
-    "patrol": 3897,
-    "story": 5180,
-    "allStrikes": 1321,
-    "allPvE": 10398
+    "patrol": 5557,
+    "story": 6498,
+    "allStrikes": 3383,
+    "allPvE": 15438
   },
   "2020-10-15T00:00:00Z": {
-    "patrol": 2592,
-    "story": 2540,
-    "allStrikes": 1579,
-    "allPvE": 6711
+    "patrol": 4092,
+    "story": 6395,
+    "allStrikes": 4418,
+    "allPvE": 14905
   },
   "2020-10-16T00:00:00Z": {
-    "patrol": 1961,
+    "patrol": 2047,
     "raid": 4907,
     "allStrikes": 881,
-    "allPvE": 15233
+    "allPvE": 17183
   },
   "2020-10-19T00:00:00Z": {
-    "patrol": 2106,
-    "allStrikes": 687,
-    "allPvE": 3064
+    "patrol": 4460,
+    "allStrikes": 1685,
+    "allPvE": 8325,
+    "story": 1909
   },
   "2020-10-20T00:00:00Z": {
     "patrol": 3018,
     "raid": 4839,
     "story": 1227,
     "allStrikes": 1830,
-    "allPvE": 11931
+    "allPvE": 12659,
+    "allPvP": 1387
   },
   "2020-10-21T00:00:00Z": {
-    "patrol": 2284,
-    "story": 3962,
-    "allPvE": 6246,
-    "allPvECompetitive": 2271
+    "patrol": 3215,
+    "story": 8384,
+    "allPvE": 15156,
+    "allPvECompetitive": 9565,
+    "allPvP": 1588,
+    "allStrikes": 3557
   },
   "2020-10-24T00:00:00Z": {
     "patrol": 3383,
@@ -4116,20 +4212,21 @@
     "allPvE": 8790
   },
   "2020-10-25T00:00:00Z": {
-    "patrol": 1800,
-    "allStrikes": 3240,
-    "allPvE": 5162
+    "patrol": 5759,
+    "allStrikes": 4226,
+    "allPvE": 12080,
+    "story": 1711
   },
   "2020-10-26T00:00:00Z": {
     "patrol": 418,
     "allStrikes": 1127,
-    "allPvE": 3373
+    "allPvE": 3908
   },
   "2020-10-27T00:00:00Z": {
-    "patrol": 4748,
-    "story": 2315,
-    "allStrikes": 2501,
-    "allPvE": 11056
+    "patrol": 9750,
+    "story": 3752,
+    "allStrikes": 5826,
+    "allPvE": 21152
   },
   "2020-10-28T00:00:00Z": {
     "patrol": 3012,
@@ -4138,58 +4235,61 @@
     "allPvE": 11606
   },
   "2020-10-30T00:00:00Z": {
-    "patrol": 1111,
-    "allPvE": 1111
+    "patrol": 2927,
+    "allPvE": 2927
   },
   "2020-10-31T00:00:00Z": {
-    "patrol": 192,
-    "allPvE": 192
+    "patrol": 1744,
+    "allPvE": 1744
   },
   "2020-10-22T00:00:00Z": {
-    "allStrikes": 769,
-    "allPvE": 769
+    "allStrikes": 1972,
+    "allPvE": 3113,
+    "patrol": 1141
   },
   "2020-11-12T00:00:00Z": {
-    "allPvP": 3372,
-    "patrol": 4725,
-    "story": 969,
-    "allPvE": 5694
+    "allPvP": 6017,
+    "patrol": 16774,
+    "story": 6081,
+    "allPvE": 29208,
+    "allStrikes": 6353
   },
   "2020-11-14T00:00:00Z": {
     "allPvP": 3205,
-    "patrol": 2258,
-    "story": 557,
-    "allStrikes": 8417,
-    "allPvE": 11232
+    "patrol": 13715,
+    "story": 1500,
+    "allStrikes": 20259,
+    "allPvE": 35474,
+    "allPvECompetitive": 1557
   },
   "2020-11-15T00:00:00Z": {
     "allPvP": 2221,
-    "patrol": 5019,
+    "patrol": 11114,
     "story": 206,
-    "allStrikes": 17303,
-    "allPvE": 22528,
+    "allStrikes": 23373,
+    "allPvE": 34949,
     "allPvECompetitive": 1285
   },
   "2020-11-16T00:00:00Z": {
-    "allPvP": 2657,
-    "patrol": 1562,
-    "allStrikes": 2539,
-    "allPvE": 4101
+    "allPvP": 4038,
+    "patrol": 4785,
+    "allStrikes": 13939,
+    "allPvE": 18724
   },
   "2020-11-19T00:00:00Z": {
     "allPvP": 2801,
-    "patrol": 566,
+    "patrol": 3029,
     "story": 655,
     "allStrikes": 7393,
-    "allPvE": 8614,
-    "allPvECompetitive": 1299
+    "allPvE": 11077,
+    "allPvECompetitive": 2613
   },
   "2020-11-20T00:00:00Z": {
     "allPvP": 2424,
-    "patrol": 9309,
-    "story": 1226,
-    "allStrikes": 1437,
-    "allPvE": 13574
+    "patrol": 10625,
+    "story": 1574,
+    "allStrikes": 4400,
+    "allPvE": 18856
   },
   "2020-11-21T00:00:00Z": {
     "allPvP": 6471,
@@ -4197,35 +4297,45 @@
     "raid": 64563,
     "story": 383,
     "allStrikes": 5795,
-    "allPvE": 75533,
+    "allPvE": 75995,
     "allPvECompetitive": 978
   },
+  "2020-11-25T00:00:00Z": {
+    "allPvP": 3345,
+    "patrol": 10143,
+    "story": 1451,
+    "allStrikes": 5804,
+    "allPvE": 19550,
+    "allPvECompetitive": 1464
+  },
   "2020-11-02T00:00:00Z": {
-    "patrol": 459,
-    "allPvE": 459
+    "patrol": 1948,
+    "allPvE": 1948
   },
   "2020-11-03T00:00:00Z": {
-    "patrol": 3986,
+    "patrol": 8171,
     "raid": 5565,
-    "allStrikes": 9975,
-    "allPvE": 20199
+    "allStrikes": 11648,
+    "allPvE": 29283,
+    "story": 2652
   },
   "2020-11-04T00:00:00Z": {
     "patrol": 2607,
     "allStrikes": 5662,
-    "allPvE": 10081
+    "allPvE": 11903,
+    "story": 1144
   },
   "2020-11-08T00:00:00Z": {
-    "patrol": 267,
-    "story": 896,
-    "allStrikes": 1570,
-    "allPvE": 2733
+    "patrol": 1256,
+    "story": 1581,
+    "allStrikes": 2929,
+    "allPvE": 5766
   },
   "2020-11-09T00:00:00Z": {
-    "patrol": 1077,
+    "patrol": 1137,
     "story": 986,
-    "allStrikes": 3956,
-    "allPvE": 11955
+    "allStrikes": 4542,
+    "allPvE": 12601
   },
   "2020-11-10T00:00:00Z": {
     "patrol": 10947,
@@ -4234,40 +4344,50 @@
     "allPvE": 16184
   },
   "2020-11-11T00:00:00Z": {
-    "patrol": 16923,
-    "story": 3860,
-    "allStrikes": 10544,
-    "allPvE": 31327,
+    "patrol": 26374,
+    "story": 7190,
+    "allStrikes": 12985,
+    "allPvE": 46549,
     "allPvECompetitive": 2139
   },
   "2020-11-13T00:00:00Z": {
-    "patrol": 4891,
-    "allStrikes": 2755,
-    "allPvE": 7646
+    "patrol": 13196,
+    "allStrikes": 6202,
+    "allPvE": 19883,
+    "allPvP": 3265,
+    "allPvECompetitive": 1401
   },
   "2020-11-17T00:00:00Z": {
-    "patrol": 4209,
-    "allStrikes": 1879,
-    "allPvE": 6088
+    "patrol": 7832,
+    "allStrikes": 12972,
+    "allPvE": 21600,
+    "story": 796
   },
   "2020-11-18T00:00:00Z": {
-    "patrol": 762,
-    "allStrikes": 1847,
-    "allPvE": 2609
+    "patrol": 8512,
+    "allStrikes": 11005,
+    "allPvE": 21224,
+    "allPvP": 4182,
+    "story": 1707,
+    "allPvECompetitive": 1577
   },
   "2020-11-23T00:00:00Z": {
     "patrol": 18821,
-    "raid": 11573,
+    "raid": 12101,
     "story": 1899,
     "allStrikes": 3575,
-    "allPvE": 35868
+    "allPvE": 36396
   },
   "2020-11-24T00:00:00Z": {
-    "patrol": 7499,
-    "raid": 9167,
+    "patrol": 7762,
+    "raid": 12889,
     "story": 343,
-    "allStrikes": 1747,
-    "allPvE": 18756
+    "allStrikes": 3197,
+    "allPvE": 24191
+  },
+  "2020-11-26T00:00:00Z": {
+    "patrol": 1485,
+    "allPvE": 1485
   },
   "2020-11-06T00:00:00Z": {
     "raid": 10737,
@@ -4276,7 +4396,34 @@
   },
   "2020-11-07T00:00:00Z": {
     "raid": 13841,
-    "allStrikes": 817,
-    "allPvE": 15617
+    "allStrikes": 2250,
+    "allPvE": 18777,
+    "patrol": 391,
+    "story": 1336
+  },
+  "2020-08-30T00:00:00Z": {
+    "patrol": 5319,
+    "story": 631,
+    "allPvE": 5950
+  },
+  "2020-10-17T00:00:00Z": {
+    "patrol": 148,
+    "allStrikes": 2332,
+    "allPvE": 2480
+  },
+  "2020-11-01T00:00:00Z": {
+    "patrol": 521,
+    "allPvE": 521
+  },
+  "2019-12-02T00:00:00Z": {
+    "patrol": 111,
+    "allStrikes": 3105,
+    "allPvE": 3216
+  },
+  "2020-09-24T00:00:00Z": {
+    "allPvP": 2827,
+    "patrol": 1024,
+    "story": 782,
+    "allPvE": 2599
   }
 }

@@ -1,0 +1,1350 @@
+{
+  "Response": {
+    "allPvP": {},
+    "patrol": {},
+    "raid": {},
+    "story": {},
+    "allStrikes": {
+      "daily": [
+        {
+          "period": "2020-02-09T00:00:00Z",
+          "values": {
+            "activitiesCleared": {
+              "statId": "activitiesCleared",
+              "basic": {
+                "value": 4,
+                "displayValue": "4"
+              }
+            },
+            "activitiesEntered": {
+              "statId": "activitiesEntered",
+              "basic": {
+                "value": 4,
+                "displayValue": "4"
+              }
+            },
+            "assists": {
+              "statId": "assists",
+              "basic": {
+                "value": 78,
+                "displayValue": "78"
+              },
+              "pga": {
+                "value": 19.5,
+                "displayValue": "19.5"
+              }
+            },
+            "totalDeathDistance": {
+              "statId": "totalDeathDistance",
+              "basic": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "averageDeathDistance": {
+              "statId": "averageDeathDistance",
+              "basic": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "totalKillDistance": {
+              "statId": "totalKillDistance",
+              "basic": {
+                "value": 4871,
+                "displayValue": "4871.0"
+              }
+            },
+            "kills": {
+              "statId": "kills",
+              "basic": {
+                "value": 361,
+                "displayValue": "361"
+              },
+              "pga": {
+                "value": 90.25,
+                "displayValue": "90.3"
+              }
+            },
+            "averageKillDistance": {
+              "statId": "averageKillDistance",
+              "basic": {
+                "value": 13.493074792243767,
+                "displayValue": "13.5"
+              }
+            },
+            "secondsPlayed": {
+              "statId": "secondsPlayed",
+              "basic": {
+                "value": 2439,
+                "displayValue": "40m 39s"
+              },
+              "pga": {
+                "value": 609.75,
+                "displayValue": "10m 9s"
+              }
+            },
+            "deaths": {
+              "statId": "deaths",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              },
+              "pga": {
+                "value": 0.25,
+                "displayValue": "0.3"
+              }
+            },
+            "averageLifespan": {
+              "statId": "averageLifespan",
+              "basic": {
+                "value": 1219.5,
+                "displayValue": "20m 19s"
+              }
+            },
+            "opponentsDefeated": {
+              "statId": "opponentsDefeated",
+              "basic": {
+                "value": 439,
+                "displayValue": "439"
+              }
+            },
+            "efficiency": {
+              "statId": "efficiency",
+              "basic": {
+                "value": 439,
+                "displayValue": "439.00"
+              }
+            },
+            "killsDeathsRatio": {
+              "statId": "killsDeathsRatio",
+              "basic": {
+                "value": 361,
+                "displayValue": "361.00"
+              }
+            },
+            "killsDeathsAssists": {
+              "statId": "killsDeathsAssists",
+              "basic": {
+                "value": 400,
+                "displayValue": "400.00"
+              }
+            },
+            "maximumPowerLevel": {
+              "statId": "maximumPowerLevel",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            },
+            "objectivesCompleted": {
+              "statId": "objectivesCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "precisionKills": {
+              "statId": "precisionKills",
+              "basic": {
+                "value": 63,
+                "displayValue": "63"
+              },
+              "pga": {
+                "value": 15.75,
+                "displayValue": "15.8"
+              }
+            },
+            "resurrectionsPerformed": {
+              "statId": "resurrectionsPerformed",
+              "basic": {
+                "value": 3,
+                "displayValue": "3"
+              },
+              "pga": {
+                "value": 0.75,
+                "displayValue": "0.8"
+              }
+            },
+            "resurrectionsReceived": {
+              "statId": "resurrectionsReceived",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "score": {
+              "statId": "score",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            },
+            "heroicPublicEventsCompleted": {
+              "statId": "heroicPublicEventsCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "adventuresCompleted": {
+              "statId": "adventuresCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "suicides": {
+              "statId": "suicides",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              },
+              "pga": {
+                "value": 0.25,
+                "displayValue": "0.3"
+              }
+            },
+            "allParticipantsCount": {
+              "statId": "allParticipantsCount",
+              "basic": {
+                "value": 14,
+                "displayValue": "14"
+              }
+            },
+            "allParticipantsScore": {
+              "statId": "allParticipantsScore",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            },
+            "allParticipantsTimePlayed": {
+              "statId": "allParticipantsTimePlayed",
+              "basic": {
+                "value": 8522,
+                "displayValue": "2h 22m"
+              }
+            },
+            "publicEventsCompleted": {
+              "statId": "publicEventsCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "remainingTimeAfterQuitSeconds": {
+              "statId": "remainingTimeAfterQuitSeconds",
+              "basic": {
+                "value": 0,
+                "displayValue": "0m 0s"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0m 0s"
+              }
+            },
+            "teamScore": {
+              "statId": "teamScore",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            },
+            "totalActivityDurationSeconds": {
+              "statId": "totalActivityDurationSeconds",
+              "basic": {
+                "value": 2444,
+                "displayValue": "40m 44s"
+              },
+              "pga": {
+                "value": 611,
+                "displayValue": "10m 11s"
+              }
+            },
+            "dailyMedalsEarned": {
+              "statId": "dailyMedalsEarned",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "dailyfastestCompletionMs": {
+              "statId": "dailyfastestCompletionMs",
+              "basic": {
+                "value": 576100,
+                "displayValue": "9:36.100"
+              }
+            },
+            "highestCharacterLevel": {
+              "statId": "highestCharacterLevel",
+              "basic": {
+                "value": 50,
+                "displayValue": "50"
+              }
+            },
+            "highestLightLevel": {
+              "statId": "highestLightLevel",
+              "basic": {
+                "value": 907,
+                "displayValue": "907"
+              }
+            },
+            "highestSandboxLevel": {
+              "statId": "highestSandboxLevel",
+              "basic": {
+                "value": 50,
+                "displayValue": "50"
+              }
+            },
+            "fireTeamActivities": {
+              "statId": "fireTeamActivities",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            }
+          }
+        },
+        {
+          "period": "2020-02-12T00:00:00Z",
+          "values": {
+            "activitiesCleared": {
+              "statId": "activitiesCleared",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              }
+            },
+            "activitiesEntered": {
+              "statId": "activitiesEntered",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              }
+            },
+            "assists": {
+              "statId": "assists",
+              "basic": {
+                "value": 19,
+                "displayValue": "19"
+              },
+              "pga": {
+                "value": 19,
+                "displayValue": "19.0"
+              }
+            },
+            "totalDeathDistance": {
+              "statId": "totalDeathDistance",
+              "basic": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "averageDeathDistance": {
+              "statId": "averageDeathDistance",
+              "basic": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "totalKillDistance": {
+              "statId": "totalKillDistance",
+              "basic": {
+                "value": 1927,
+                "displayValue": "1927.0"
+              }
+            },
+            "kills": {
+              "statId": "kills",
+              "basic": {
+                "value": 102,
+                "displayValue": "102"
+              },
+              "pga": {
+                "value": 102,
+                "displayValue": "102.0"
+              }
+            },
+            "averageKillDistance": {
+              "statId": "averageKillDistance",
+              "basic": {
+                "value": 18.892156862745097,
+                "displayValue": "18.9"
+              }
+            },
+            "secondsPlayed": {
+              "statId": "secondsPlayed",
+              "basic": {
+                "value": 749,
+                "displayValue": "12m 29s"
+              },
+              "pga": {
+                "value": 749,
+                "displayValue": "12m 29s"
+              }
+            },
+            "deaths": {
+              "statId": "deaths",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              },
+              "pga": {
+                "value": 1,
+                "displayValue": "1.0"
+              }
+            },
+            "averageLifespan": {
+              "statId": "averageLifespan",
+              "basic": {
+                "value": 374.5,
+                "displayValue": "6m 14s"
+              }
+            },
+            "opponentsDefeated": {
+              "statId": "opponentsDefeated",
+              "basic": {
+                "value": 121,
+                "displayValue": "121"
+              }
+            },
+            "efficiency": {
+              "statId": "efficiency",
+              "basic": {
+                "value": 121,
+                "displayValue": "121.00"
+              }
+            },
+            "killsDeathsRatio": {
+              "statId": "killsDeathsRatio",
+              "basic": {
+                "value": 102,
+                "displayValue": "102.00"
+              }
+            },
+            "killsDeathsAssists": {
+              "statId": "killsDeathsAssists",
+              "basic": {
+                "value": 111.5,
+                "displayValue": "111.50"
+              }
+            },
+            "maximumPowerLevel": {
+              "statId": "maximumPowerLevel",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            },
+            "objectivesCompleted": {
+              "statId": "objectivesCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "precisionKills": {
+              "statId": "precisionKills",
+              "basic": {
+                "value": 9,
+                "displayValue": "9"
+              },
+              "pga": {
+                "value": 9,
+                "displayValue": "9.0"
+              }
+            },
+            "resurrectionsPerformed": {
+              "statId": "resurrectionsPerformed",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "resurrectionsReceived": {
+              "statId": "resurrectionsReceived",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "score": {
+              "statId": "score",
+              "basic": {
+                "value": 21210,
+                "displayValue": "21,210"
+              },
+              "pga": {
+                "value": 21210,
+                "displayValue": "21,210"
+              }
+            },
+            "heroicPublicEventsCompleted": {
+              "statId": "heroicPublicEventsCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "adventuresCompleted": {
+              "statId": "adventuresCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "suicides": {
+              "statId": "suicides",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "allParticipantsCount": {
+              "statId": "allParticipantsCount",
+              "basic": {
+                "value": 5,
+                "displayValue": "5"
+              }
+            },
+            "allParticipantsScore": {
+              "statId": "allParticipantsScore",
+              "basic": {
+                "value": 29620,
+                "displayValue": "29,620"
+              }
+            },
+            "allParticipantsTimePlayed": {
+              "statId": "allParticipantsTimePlayed",
+              "basic": {
+                "value": 3742,
+                "displayValue": "1h 2m"
+              }
+            },
+            "publicEventsCompleted": {
+              "statId": "publicEventsCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "remainingTimeAfterQuitSeconds": {
+              "statId": "remainingTimeAfterQuitSeconds",
+              "basic": {
+                "value": 0,
+                "displayValue": "0m 0s"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0m 0s"
+              }
+            },
+            "teamScore": {
+              "statId": "teamScore",
+              "basic": {
+                "value": 29620,
+                "displayValue": "29,620"
+              },
+              "pga": {
+                "value": 29620,
+                "displayValue": "29,620"
+              }
+            },
+            "totalActivityDurationSeconds": {
+              "statId": "totalActivityDurationSeconds",
+              "basic": {
+                "value": 749,
+                "displayValue": "12m 29s"
+              },
+              "pga": {
+                "value": 749,
+                "displayValue": "12m 29s"
+              }
+            },
+            "dailyMedalsEarned": {
+              "statId": "dailyMedalsEarned",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "dailyfastestCompletionMs": {
+              "statId": "dailyfastestCompletionMs",
+              "basic": {
+                "value": 749400,
+                "displayValue": "12:29.400"
+              }
+            },
+            "highestCharacterLevel": {
+              "statId": "highestCharacterLevel",
+              "basic": {
+                "value": 50,
+                "displayValue": "50"
+              }
+            },
+            "highestLightLevel": {
+              "statId": "highestLightLevel",
+              "basic": {
+                "value": 976,
+                "displayValue": "976"
+              }
+            },
+            "highestSandboxLevel": {
+              "statId": "highestSandboxLevel",
+              "basic": {
+                "value": 50,
+                "displayValue": "50"
+              }
+            },
+            "fireTeamActivities": {
+              "statId": "fireTeamActivities",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "allPvE": {
+      "daily": [
+        {
+          "period": "2020-02-09T00:00:00Z",
+          "values": {
+            "activitiesCleared": {
+              "statId": "activitiesCleared",
+              "basic": {
+                "value": 4,
+                "displayValue": "4"
+              }
+            },
+            "activitiesEntered": {
+              "statId": "activitiesEntered",
+              "basic": {
+                "value": 4,
+                "displayValue": "4"
+              }
+            },
+            "assists": {
+              "statId": "assists",
+              "basic": {
+                "value": 78,
+                "displayValue": "78"
+              },
+              "pga": {
+                "value": 19.5,
+                "displayValue": "19.5"
+              }
+            },
+            "totalDeathDistance": {
+              "statId": "totalDeathDistance",
+              "basic": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "averageDeathDistance": {
+              "statId": "averageDeathDistance",
+              "basic": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "totalKillDistance": {
+              "statId": "totalKillDistance",
+              "basic": {
+                "value": 4871,
+                "displayValue": "4871.0"
+              }
+            },
+            "kills": {
+              "statId": "kills",
+              "basic": {
+                "value": 361,
+                "displayValue": "361"
+              },
+              "pga": {
+                "value": 90.25,
+                "displayValue": "90.3"
+              }
+            },
+            "averageKillDistance": {
+              "statId": "averageKillDistance",
+              "basic": {
+                "value": 13.493074792243767,
+                "displayValue": "13.5"
+              }
+            },
+            "secondsPlayed": {
+              "statId": "secondsPlayed",
+              "basic": {
+                "value": 2439,
+                "displayValue": "40m 39s"
+              },
+              "pga": {
+                "value": 609.75,
+                "displayValue": "10m 9s"
+              }
+            },
+            "deaths": {
+              "statId": "deaths",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              },
+              "pga": {
+                "value": 0.25,
+                "displayValue": "0.3"
+              }
+            },
+            "averageLifespan": {
+              "statId": "averageLifespan",
+              "basic": {
+                "value": 1219.5,
+                "displayValue": "20m 19s"
+              }
+            },
+            "opponentsDefeated": {
+              "statId": "opponentsDefeated",
+              "basic": {
+                "value": 439,
+                "displayValue": "439"
+              }
+            },
+            "efficiency": {
+              "statId": "efficiency",
+              "basic": {
+                "value": 439,
+                "displayValue": "439.00"
+              }
+            },
+            "killsDeathsRatio": {
+              "statId": "killsDeathsRatio",
+              "basic": {
+                "value": 361,
+                "displayValue": "361.00"
+              }
+            },
+            "killsDeathsAssists": {
+              "statId": "killsDeathsAssists",
+              "basic": {
+                "value": 400,
+                "displayValue": "400.00"
+              }
+            },
+            "maximumPowerLevel": {
+              "statId": "maximumPowerLevel",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            },
+            "objectivesCompleted": {
+              "statId": "objectivesCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "precisionKills": {
+              "statId": "precisionKills",
+              "basic": {
+                "value": 63,
+                "displayValue": "63"
+              },
+              "pga": {
+                "value": 15.75,
+                "displayValue": "15.8"
+              }
+            },
+            "resurrectionsPerformed": {
+              "statId": "resurrectionsPerformed",
+              "basic": {
+                "value": 3,
+                "displayValue": "3"
+              },
+              "pga": {
+                "value": 0.75,
+                "displayValue": "0.8"
+              }
+            },
+            "resurrectionsReceived": {
+              "statId": "resurrectionsReceived",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "score": {
+              "statId": "score",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            },
+            "heroicPublicEventsCompleted": {
+              "statId": "heroicPublicEventsCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "adventuresCompleted": {
+              "statId": "adventuresCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "suicides": {
+              "statId": "suicides",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              },
+              "pga": {
+                "value": 0.25,
+                "displayValue": "0.3"
+              }
+            },
+            "allParticipantsCount": {
+              "statId": "allParticipantsCount",
+              "basic": {
+                "value": 14,
+                "displayValue": "14"
+              }
+            },
+            "allParticipantsScore": {
+              "statId": "allParticipantsScore",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            },
+            "allParticipantsTimePlayed": {
+              "statId": "allParticipantsTimePlayed",
+              "basic": {
+                "value": 8522,
+                "displayValue": "2h 22m"
+              }
+            },
+            "publicEventsCompleted": {
+              "statId": "publicEventsCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "remainingTimeAfterQuitSeconds": {
+              "statId": "remainingTimeAfterQuitSeconds",
+              "basic": {
+                "value": 0,
+                "displayValue": "0m 0s"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0m 0s"
+              }
+            },
+            "teamScore": {
+              "statId": "teamScore",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            },
+            "totalActivityDurationSeconds": {
+              "statId": "totalActivityDurationSeconds",
+              "basic": {
+                "value": 2444,
+                "displayValue": "40m 44s"
+              },
+              "pga": {
+                "value": 611,
+                "displayValue": "10m 11s"
+              }
+            },
+            "dailyMedalsEarned": {
+              "statId": "dailyMedalsEarned",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "dailyfastestCompletionMs": {
+              "statId": "dailyfastestCompletionMs",
+              "basic": {
+                "value": 576100,
+                "displayValue": "9:36.100"
+              }
+            },
+            "highestCharacterLevel": {
+              "statId": "highestCharacterLevel",
+              "basic": {
+                "value": 50,
+                "displayValue": "50"
+              }
+            },
+            "highestLightLevel": {
+              "statId": "highestLightLevel",
+              "basic": {
+                "value": 907,
+                "displayValue": "907"
+              }
+            },
+            "highestSandboxLevel": {
+              "statId": "highestSandboxLevel",
+              "basic": {
+                "value": 50,
+                "displayValue": "50"
+              }
+            },
+            "fireTeamActivities": {
+              "statId": "fireTeamActivities",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            }
+          }
+        },
+        {
+          "period": "2020-02-12T00:00:00Z",
+          "values": {
+            "activitiesCleared": {
+              "statId": "activitiesCleared",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              }
+            },
+            "activitiesEntered": {
+              "statId": "activitiesEntered",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              }
+            },
+            "assists": {
+              "statId": "assists",
+              "basic": {
+                "value": 19,
+                "displayValue": "19"
+              },
+              "pga": {
+                "value": 19,
+                "displayValue": "19.0"
+              }
+            },
+            "totalDeathDistance": {
+              "statId": "totalDeathDistance",
+              "basic": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "averageDeathDistance": {
+              "statId": "averageDeathDistance",
+              "basic": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "totalKillDistance": {
+              "statId": "totalKillDistance",
+              "basic": {
+                "value": 1927,
+                "displayValue": "1927.0"
+              }
+            },
+            "kills": {
+              "statId": "kills",
+              "basic": {
+                "value": 102,
+                "displayValue": "102"
+              },
+              "pga": {
+                "value": 102,
+                "displayValue": "102.0"
+              }
+            },
+            "averageKillDistance": {
+              "statId": "averageKillDistance",
+              "basic": {
+                "value": 18.892156862745097,
+                "displayValue": "18.9"
+              }
+            },
+            "secondsPlayed": {
+              "statId": "secondsPlayed",
+              "basic": {
+                "value": 749,
+                "displayValue": "12m 29s"
+              },
+              "pga": {
+                "value": 749,
+                "displayValue": "12m 29s"
+              }
+            },
+            "deaths": {
+              "statId": "deaths",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              },
+              "pga": {
+                "value": 1,
+                "displayValue": "1.0"
+              }
+            },
+            "averageLifespan": {
+              "statId": "averageLifespan",
+              "basic": {
+                "value": 374.5,
+                "displayValue": "6m 14s"
+              }
+            },
+            "opponentsDefeated": {
+              "statId": "opponentsDefeated",
+              "basic": {
+                "value": 121,
+                "displayValue": "121"
+              }
+            },
+            "efficiency": {
+              "statId": "efficiency",
+              "basic": {
+                "value": 121,
+                "displayValue": "121.00"
+              }
+            },
+            "killsDeathsRatio": {
+              "statId": "killsDeathsRatio",
+              "basic": {
+                "value": 102,
+                "displayValue": "102.00"
+              }
+            },
+            "killsDeathsAssists": {
+              "statId": "killsDeathsAssists",
+              "basic": {
+                "value": 111.5,
+                "displayValue": "111.50"
+              }
+            },
+            "maximumPowerLevel": {
+              "statId": "maximumPowerLevel",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              }
+            },
+            "objectivesCompleted": {
+              "statId": "objectivesCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "precisionKills": {
+              "statId": "precisionKills",
+              "basic": {
+                "value": 9,
+                "displayValue": "9"
+              },
+              "pga": {
+                "value": 9,
+                "displayValue": "9.0"
+              }
+            },
+            "resurrectionsPerformed": {
+              "statId": "resurrectionsPerformed",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "resurrectionsReceived": {
+              "statId": "resurrectionsReceived",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "score": {
+              "statId": "score",
+              "basic": {
+                "value": 21210,
+                "displayValue": "21,210"
+              },
+              "pga": {
+                "value": 21210,
+                "displayValue": "21,210"
+              }
+            },
+            "heroicPublicEventsCompleted": {
+              "statId": "heroicPublicEventsCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "adventuresCompleted": {
+              "statId": "adventuresCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "suicides": {
+              "statId": "suicides",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "allParticipantsCount": {
+              "statId": "allParticipantsCount",
+              "basic": {
+                "value": 5,
+                "displayValue": "5"
+              }
+            },
+            "allParticipantsScore": {
+              "statId": "allParticipantsScore",
+              "basic": {
+                "value": 29620,
+                "displayValue": "29,620"
+              }
+            },
+            "allParticipantsTimePlayed": {
+              "statId": "allParticipantsTimePlayed",
+              "basic": {
+                "value": 3742,
+                "displayValue": "1h 2m"
+              }
+            },
+            "publicEventsCompleted": {
+              "statId": "publicEventsCompleted",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "remainingTimeAfterQuitSeconds": {
+              "statId": "remainingTimeAfterQuitSeconds",
+              "basic": {
+                "value": 0,
+                "displayValue": "0m 0s"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0m 0s"
+              }
+            },
+            "teamScore": {
+              "statId": "teamScore",
+              "basic": {
+                "value": 29620,
+                "displayValue": "29,620"
+              },
+              "pga": {
+                "value": 29620,
+                "displayValue": "29,620"
+              }
+            },
+            "totalActivityDurationSeconds": {
+              "statId": "totalActivityDurationSeconds",
+              "basic": {
+                "value": 749,
+                "displayValue": "12m 29s"
+              },
+              "pga": {
+                "value": 749,
+                "displayValue": "12m 29s"
+              }
+            },
+            "dailyMedalsEarned": {
+              "statId": "dailyMedalsEarned",
+              "basic": {
+                "value": 0,
+                "displayValue": "0"
+              },
+              "pga": {
+                "value": 0,
+                "displayValue": "0.0"
+              }
+            },
+            "dailyfastestCompletionMs": {
+              "statId": "dailyfastestCompletionMs",
+              "basic": {
+                "value": 749400,
+                "displayValue": "12:29.400"
+              }
+            },
+            "highestCharacterLevel": {
+              "statId": "highestCharacterLevel",
+              "basic": {
+                "value": 50,
+                "displayValue": "50"
+              }
+            },
+            "highestLightLevel": {
+              "statId": "highestLightLevel",
+              "basic": {
+                "value": 976,
+                "displayValue": "976"
+              }
+            },
+            "highestSandboxLevel": {
+              "statId": "highestSandboxLevel",
+              "basic": {
+                "value": 50,
+                "displayValue": "50"
+              }
+            },
+            "fireTeamActivities": {
+              "statId": "fireTeamActivities",
+              "basic": {
+                "value": 1,
+                "displayValue": "1"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "allPvECompetitive": {}
+  },
+  "ErrorCode": 1,
+  "ThrottleSeconds": 0,
+  "ErrorStatus": "Success",
+  "Message": "Ok",
+  "MessageData": {}
+}

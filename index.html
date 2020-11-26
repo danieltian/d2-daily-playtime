@@ -3,6 +3,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
   <script type="text/javascript">
+    let total = 0
+
     google.charts.load("current", {packages:["calendar"]});
     google.charts.setOnLoadCallback(drawChart);
 
@@ -15,9 +17,12 @@
         Object.entries(data).forEach(entry => {
           const totalSeconds = (entry[1].allPvE || 0) + (entry[1].allPvP || 0) + (entry[1].allPvECompetitive || 0)
           const totalHours = totalSeconds / 3600
+          total = total + totalHours
           const roundedHours = Math.round((totalHours + Number.EPSILON) * 100) / 100
           dataTable.addRow([new Date(entry[0]), roundedHours])
         })
+
+        console.log('total hours', total)
 
         var chart = new google.visualization.Calendar(document.getElementById('calendar_basic'));
 

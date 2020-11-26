@@ -1,7 +1,7 @@
 const glob = require('glob')
 const fs = require('fs')
 
-glob('./data/*.json', undefined, (error, files) => {
+glob('./data/**/*.json', undefined, (error, files) => {
   const data = []
   const dates = {}
 
@@ -14,7 +14,7 @@ glob('./data/*.json', undefined, (error, files) => {
       (details.daily || []).forEach(day => {
         const period = day.period
         dates[period] = dates[period] || {}
-        dates[period][type] = day.values.secondsPlayed.basic.value
+        dates[period][type] = (dates[period][type] || 0) + day.values.secondsPlayed.basic.value
       })
     })
   })
